@@ -2,9 +2,9 @@
 Import-Module ImportExcel -ErrorAction Stop
 
 # Azure AD app registration details
-$ClientId = "ed2ecbd5-8bf4-4d34-8085-c66e7f9f36fc"
-$TenantId = "4ab02f96-fd79-417b-9642-9b5fd0a15eeb"
-$ClientSecret = "mKo8Q~50lYnbO6rIp9OPmIC823CdirwXTLmV7akR"
+$ClientId = "**********************************"
+$TenantId = "**********************************"
+$ClientSecret = "**********************************"
 # Get the access token
 $AccessToken = Get-AccessToken -ClientId $ClientId -TenantId $TenantId -ClientSecret $ClientSecret
 
