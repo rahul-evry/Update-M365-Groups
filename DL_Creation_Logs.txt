@@ -1,0 +1,920 @@
+2025-01-30 15:21:53 - Excel is updated now update Azure AD
+2025-01-30 15:21:54 - User department updated successfully.
+2025-01-30 15:21:54 - User department updated successfully.
+2025-01-30 15:21:54 - User department updated successfully.
+2025-01-30 15:21:54 - User department updated successfully.
+2025-01-30 15:21:54 - User department updated successfully.
+2025-01-30 15:21:55 - User department updated successfully.
+2025-01-30 15:21:55 - User department updated successfully.
+2025-01-30 15:21:55 - User department updated successfully.
+2025-01-30 15:21:55 - User department updated successfully.
+2025-01-30 15:21:56 - User department updated successfully.
+2025-01-30 15:21:56 - User department updated successfully.
+2025-01-30 15:21:56 - User department updated successfully.
+2025-01-30 15:21:56 - User department updated successfully.
+2025-01-30 15:21:56 - User department updated successfully.
+2025-01-30 15:21:57 - User department updated successfully.
+2025-01-30 15:21:57 - User department updated successfully.
+2025-01-30 15:21:57 - User department updated successfully.
+2025-01-30 15:21:57 - User department updated successfully.
+2025-01-30 15:21:57 - User department updated successfully.
+2025-01-30 15:21:58 - User department updated successfully.
+2025-01-30 15:21:58 - User department updated successfully.
+2025-01-30 15:21:58 - User department updated successfully.
+2025-01-30 15:21:58 - User department updated successfully.
+2025-01-30 15:21:58 - User department updated successfully.
+2025-01-30 15:21:58 - User department updated successfully.
+2025-01-30 15:21:59 - User department updated successfully.
+2025-01-30 15:21:59 - User department updated successfully.
+2025-01-30 15:21:59 - User department updated successfully.
+2025-01-30 15:21:59 - User department updated successfully.
+2025-01-30 15:21:59 - User department updated successfully.
+2025-01-30 15:22:00 - User department updated successfully.
+2025-01-30 15:22:00 - User department updated successfully.
+2025-01-30 15:22:00 - User department updated successfully.
+2025-01-30 15:22:00 - User department updated successfully.
+2025-01-30 15:22:00 - Processing DL
+2025-01-30 15:22:01 - Group details successfully stored in variable 'GroupsData'
+2025-01-30 15:22:01 - Group details successfully stored in variable 'GroupsData'
+2025-01-30 15:22:01 - Group details successfully stored in variable 'GroupsData'
+2025-01-30 15:22:02 - Group details successfully stored in variable 'GroupsData'
+2025-01-30 15:22:02 - Group details successfully stored in variable 'GroupsData'
+2025-01-30 15:22:02 - Group details successfully stored in variable 'GroupsData'
+2025-01-30 15:22:02 - Group details successfully stored in variable 'GroupsData'
+2025-01-30 15:22:02 - Group details successfully stored in variable 'GroupsData'
+2025-01-30 15:22:02 -       
+2025-01-30 15:22:02 - User 2ec5bf74-c1f1-439d-b747-76f9a3f4492c needs to be added to group 77097e09-0624-4882-8513-b902360434b5
+2025-01-30 15:22:03 - GroupId 77097e09-0624-4882-8513-b902360434b5 matches an entry in the MatchingData array. No action needed.
+2025-01-30 15:22:04 - GroupId 77097e09-0624-4882-8513-b902360434b5 matches an entry in the MatchingData array. No action needed.
+2025-01-30 15:22:04 - User baaf4910-2758-4d6e-b799-3b39a980a39d needs to be added to group e73c82cd-a510-4c67-a54e-b306d77eb760
+2025-01-30 15:22:06 - GroupId e73c82cd-a510-4c67-a54e-b306d77eb760 matches an entry in the MatchingData array. No action needed.
+2025-01-30 15:22:06 - User f71338a0-5d86-45b8-b679-8acbc2165028 needs to be added to group e73c82cd-a510-4c67-a54e-b306d77eb760
+2025-01-30 15:22:07 - GroupId e73c82cd-a510-4c67-a54e-b306d77eb760 matches an entry in the MatchingData array. No action needed.
+2025-01-30 15:22:08 - User c5bb2422-528c-4011-94e3-7e477ea1a4d8 needs to be added to group 77b2982f-07fd-4c46-a9eb-88e90866169c
+2025-01-30 15:22:08 - GroupId 77b2982f-07fd-4c46-a9eb-88e90866169c matches an entry in the MatchingData array. No action needed.
+2025-01-30 15:22:09 - User 7b501d2b-bd16-4256-9f72-3e3f36f945dd needs to be added to group e43affb7-cad0-4d35-824d-4402f6d735a5
+2025-01-30 15:22:11 - GroupId e43affb7-cad0-4d35-824d-4402f6d735a5 matches an entry in the MatchingData array. No action needed.
+2025-01-30 15:22:11 - User 615345d0-4287-42cb-9fd1-6dead32082ac needs to be added to group 77097e09-0624-4882-8513-b902360434b5
+2025-01-30 15:22:11 - GroupId 77097e09-0624-4882-8513-b902360434b5 matches an entry in the MatchingData array. No action needed.
+2025-01-30 15:22:12 - GroupId 77097e09-0624-4882-8513-b902360434b5 matches an entry in the MatchingData array. No action needed.
+2025-01-30 15:22:12 - User d7695ae5-95d5-4e2b-afc7-eb0fc631501c needs to be added to group cbcc75aa-e9d6-49d6-9792-93cfc04dd4ee
+2025-01-30 15:22:13 - GroupId cbcc75aa-e9d6-49d6-9792-93cfc04dd4ee matches an entry in the MatchingData array. No action needed.
+2025-01-30 15:22:14 - User 7be2268c-52c4-4da6-bf88-08468b5aa333 needs to be added to group cbcc75aa-e9d6-49d6-9792-93cfc04dd4ee
+2025-01-30 15:22:15 - GroupId cbcc75aa-e9d6-49d6-9792-93cfc04dd4ee matches an entry in the MatchingData array. No action needed.
+2025-01-30 15:22:16 - User bdfb42a2-418d-4ba5-b1f9-6d61d5d84411 needs to be added to group 8904d45f-bff8-46e0-ad5f-79b79cfdaf5a
+2025-01-30 15:22:16 - GroupId 8904d45f-bff8-46e0-ad5f-79b79cfdaf5a matches an entry in the MatchingData array. No action needed.
+2025-01-30 15:22:17 - User a18bc7a5-b3da-4b5e-81f5-1223e1bed7cb needs to be added to group 8904d45f-bff8-46e0-ad5f-79b79cfdaf5a
+2025-01-30 15:22:18 - GroupId 8904d45f-bff8-46e0-ad5f-79b79cfdaf5a matches an entry in the MatchingData array. No action needed.
+2025-01-30 15:22:19 - User 23195fd5-409a-48e3-a158-d4112a0a16d0 needs to be added to group e73c82cd-a510-4c67-a54e-b306d77eb760
+2025-01-30 15:22:20 - GroupId e73c82cd-a510-4c67-a54e-b306d77eb760 matches an entry in the MatchingData array. No action needed.
+2025-01-30 15:22:21 - User 0ea9e8e4-154c-476e-b442-09736eb6a479 needs to be added to group e73c82cd-a510-4c67-a54e-b306d77eb760
+2025-01-30 15:22:22 - GroupId e73c82cd-a510-4c67-a54e-b306d77eb760 matches an entry in the MatchingData array. No action needed.
+2025-01-30 15:22:22 - Department is null or empty for user 3e20f859-5e76-491e-9318-eb9100408295
+2025-01-30 15:22:24 - Department is null or empty for user da4ab631-c7d2-44f1-b008-4748da94ee58
+2025-01-30 15:22:25 - Department is null or empty for user e1a1335c-b29e-4f39-9f56-6f431f6909cf
+2025-01-30 15:22:26 - Department is null or empty for user 44db08ff-6bc0-48f6-bd7c-311469af9da0
+2025-01-30 15:22:28 - User 2cf78781-64ad-48f1-9941-60f94bda3570 needs to be added to group 77b2982f-07fd-4c46-a9eb-88e90866169c
+2025-01-30 15:22:29 - GroupId 77b2982f-07fd-4c46-a9eb-88e90866169c matches an entry in the MatchingData array. No action needed.
+2025-01-30 15:22:30 - User eccad7fc-c960-4a2b-aa6f-7c637844c8d7 needs to be added to group 8904d45f-bff8-46e0-ad5f-79b79cfdaf5a
+2025-01-30 15:22:31 - GroupId 8904d45f-bff8-46e0-ad5f-79b79cfdaf5a matches an entry in the MatchingData array. No action needed.
+2025-01-30 15:22:32 - User 353ecb0e-c1ae-48f8-8a74-293ca227c738 needs to be added to group 8904d45f-bff8-46e0-ad5f-79b79cfdaf5a
+2025-01-30 15:22:32 - GroupId 8904d45f-bff8-46e0-ad5f-79b79cfdaf5a matches an entry in the MatchingData array. No action needed.
+2025-01-30 15:22:34 - User 7a5c7803-987d-4ad3-9b37-e4dff2b69c7f needs to be added to group 8904d45f-bff8-46e0-ad5f-79b79cfdaf5a
+2025-01-30 15:22:34 - GroupId 8904d45f-bff8-46e0-ad5f-79b79cfdaf5a matches an entry in the MatchingData array. No action needed.
+2025-01-30 15:22:35 - User 6361a132-6116-4c17-bc1b-8aa42e96e896 needs to be added to group 8904d45f-bff8-46e0-ad5f-79b79cfdaf5a
+2025-01-30 15:22:36 - GroupId 8904d45f-bff8-46e0-ad5f-79b79cfdaf5a matches an entry in the MatchingData array. No action needed.
+2025-01-30 15:22:37 - User 9439b7eb-b70d-4962-aa31-fb8e48474867 needs to be added to group 8904d45f-bff8-46e0-ad5f-79b79cfdaf5a
+2025-01-30 15:22:38 - GroupId 8904d45f-bff8-46e0-ad5f-79b79cfdaf5a matches an entry in the MatchingData array. No action needed.
+2025-01-30 15:22:39 - User dfad45a8-c402-41ff-b040-38249dc90902 needs to be added to group 77097e09-0624-4882-8513-b902360434b5
+2025-01-30 15:22:39 - GroupId 77097e09-0624-4882-8513-b902360434b5 matches an entry in the MatchingData array. No action needed.
+2025-01-30 15:22:40 - GroupId 77097e09-0624-4882-8513-b902360434b5 matches an entry in the MatchingData array. No action needed.
+2025-01-30 15:22:40 - User d2cd7c8a-3973-4eba-9e0b-9d99a33dbbab needs to be added to group 8904d45f-bff8-46e0-ad5f-79b79cfdaf5a
+2025-01-30 15:22:41 - GroupId 8904d45f-bff8-46e0-ad5f-79b79cfdaf5a matches an entry in the MatchingData array. No action needed.
+2025-01-30 15:22:42 - User 2f85ac5a-8870-41e5-9e4c-48c280c769d9 needs to be added to group e73c82cd-a510-4c67-a54e-b306d77eb760
+2025-01-30 15:22:44 - GroupId e73c82cd-a510-4c67-a54e-b306d77eb760 matches an entry in the MatchingData array. No action needed.
+2025-01-30 15:22:44 - Department is null or empty for user 85ed0166-fb2c-4d73-8db9-ec127e37253d
+2025-01-30 15:22:45 - User a3149c6b-07fc-49c7-8d9c-82cdc2017f42 needs to be added to group e73c82cd-a510-4c67-a54e-b306d77eb760
+2025-01-30 15:22:47 - GroupId e73c82cd-a510-4c67-a54e-b306d77eb760 matches an entry in the MatchingData array. No action needed.
+2025-01-30 15:22:47 - Department is null or empty for user c8732f08-feaa-4dfb-9ef4-e9ffd7f66465
+2025-01-30 15:22:48 - Department is null or empty for user 4367913d-ffff-460f-9798-fe547f522d92
+2025-01-30 15:22:50 - User 70278c48-ed38-4ae3-a0f9-ac2f6f4c96d1 needs to be added to group 77097e09-0624-4882-8513-b902360434b5
+2025-01-30 15:22:50 - GroupId 77097e09-0624-4882-8513-b902360434b5 matches an entry in the MatchingData array. No action needed.
+2025-01-30 15:22:51 - GroupId 77097e09-0624-4882-8513-b902360434b5 matches an entry in the MatchingData array. No action needed.
+2025-01-30 15:22:51 - User 5aeedea1-d287-434a-a32f-7299db677d2a needs to be added to group cbcc75aa-e9d6-49d6-9792-93cfc04dd4ee
+2025-01-30 15:22:52 - GroupId cbcc75aa-e9d6-49d6-9792-93cfc04dd4ee matches an entry in the MatchingData array. No action needed.
+2025-01-30 15:22:54 - User 782d1332-8350-4013-831f-725e116cb5d0 needs to be added to group e73c82cd-a510-4c67-a54e-b306d77eb760
+2025-01-30 15:22:56 - GroupId e73c82cd-a510-4c67-a54e-b306d77eb760 matches an entry in the MatchingData array. No action needed.
+2025-01-30 15:22:56 - Script execution completed. Waiting for the next run.
+2025-01-30 15:23:58 - Excel is updated now update Azure AD
+2025-01-30 15:23:58 - User department updated successfully.
+2025-01-30 15:23:58 - User department updated successfully.
+2025-01-30 15:23:58 - User department updated successfully.
+2025-01-30 15:23:59 - User department updated successfully.
+2025-01-30 15:23:59 - User department updated successfully.
+2025-01-30 15:23:59 - User department updated successfully.
+2025-01-30 15:23:59 - User department updated successfully.
+2025-01-30 15:23:59 - User department updated successfully.
+2025-01-30 15:24:00 - User department updated successfully.
+2025-01-30 15:24:00 - User department updated successfully.
+2025-01-30 15:24:00 - User department updated successfully.
+2025-01-30 15:24:00 - User department updated successfully.
+2025-01-30 15:24:00 - User department updated successfully.
+2025-01-30 15:24:01 - User department updated successfully.
+2025-01-30 15:24:01 - User department updated successfully.
+2025-01-30 15:24:01 - User department updated successfully.
+2025-01-30 15:24:01 - User department updated successfully.
+2025-01-30 15:24:01 - User department updated successfully.
+2025-01-30 15:24:02 - User department updated successfully.
+2025-01-30 15:24:02 - User department updated successfully.
+2025-01-30 15:24:02 - User department updated successfully.
+2025-01-30 15:24:02 - User department updated successfully.
+2025-01-30 15:24:02 - User department updated successfully.
+2025-01-30 15:24:03 - User department updated successfully.
+2025-01-30 15:24:03 - User department updated successfully.
+2025-01-30 15:24:03 - User department updated successfully.
+2025-01-30 15:24:03 - User department updated successfully.
+2025-01-30 15:24:03 - User department updated successfully.
+2025-01-30 15:24:04 - User department updated successfully.
+2025-01-30 15:24:04 - User department updated successfully.
+2025-01-30 15:24:04 - User department updated successfully.
+2025-01-30 15:24:04 - User department updated successfully.
+2025-01-30 15:24:04 - User department updated successfully.
+2025-01-30 15:24:05 - User department updated successfully.
+2025-01-30 15:24:05 - Processing DL
+2025-01-30 15:24:05 - Group details successfully stored in variable 'GroupsData'
+2025-01-30 15:24:05 - Group details successfully stored in variable 'GroupsData'
+2025-01-30 15:24:06 - Group details successfully stored in variable 'GroupsData'
+2025-01-30 15:24:06 - Group details successfully stored in variable 'GroupsData'
+2025-01-30 15:24:06 - Group details successfully stored in variable 'GroupsData'
+2025-01-30 15:24:06 - Group details successfully stored in variable 'GroupsData'
+2025-01-30 15:24:06 - Group details successfully stored in variable 'GroupsData'
+2025-01-30 15:24:06 -      
+2025-01-30 15:24:07 - User 2ec5bf74-c1f1-439d-b747-76f9a3f4492c needs to be added to group 77097e09-0624-4882-8513-b902360434b5
+2025-01-30 15:24:08 - GroupId 77097e09-0624-4882-8513-b902360434b5 matches an entry in the MatchingData array. No action needed.
+2025-01-30 15:24:08 - User baaf4910-2758-4d6e-b799-3b39a980a39d needs to be added to group e73c82cd-a510-4c67-a54e-b306d77eb760
+2025-01-30 15:24:09 - GroupId e73c82cd-a510-4c67-a54e-b306d77eb760 matches an entry in the MatchingData array. No action needed.
+2025-01-30 15:24:10 - User f71338a0-5d86-45b8-b679-8acbc2165028 needs to be added to group e73c82cd-a510-4c67-a54e-b306d77eb760
+2025-01-30 15:24:11 - GroupId e73c82cd-a510-4c67-a54e-b306d77eb760 matches an entry in the MatchingData array. No action needed.
+2025-01-30 15:24:11 - User c5bb2422-528c-4011-94e3-7e477ea1a4d8 needs to be added to group 77b2982f-07fd-4c46-a9eb-88e90866169c
+2025-01-30 15:24:12 - GroupId 77b2982f-07fd-4c46-a9eb-88e90866169c matches an entry in the MatchingData array. No action needed.
+2025-01-30 15:24:13 - User 7b501d2b-bd16-4256-9f72-3e3f36f945dd needs to be added to group e43affb7-cad0-4d35-824d-4402f6d735a5
+2025-01-30 15:24:14 - GroupId e43affb7-cad0-4d35-824d-4402f6d735a5 matches an entry in the MatchingData array. No action needed.
+2025-01-30 15:24:14 - User 615345d0-4287-42cb-9fd1-6dead32082ac needs to be added to group 77097e09-0624-4882-8513-b902360434b5
+2025-01-30 15:24:15 - GroupId 77097e09-0624-4882-8513-b902360434b5 matches an entry in the MatchingData array. No action needed.
+2025-01-30 15:24:16 - User d7695ae5-95d5-4e2b-afc7-eb0fc631501c needs to be added to group cbcc75aa-e9d6-49d6-9792-93cfc04dd4ee
+2025-01-30 15:24:17 - GroupId cbcc75aa-e9d6-49d6-9792-93cfc04dd4ee matches an entry in the MatchingData array. No action needed.
+2025-01-30 15:24:17 - User 7be2268c-52c4-4da6-bf88-08468b5aa333 needs to be added to group cbcc75aa-e9d6-49d6-9792-93cfc04dd4ee
+2025-01-30 15:24:18 - GroupId cbcc75aa-e9d6-49d6-9792-93cfc04dd4ee matches an entry in the MatchingData array. No action needed.
+2025-01-30 15:24:19 - User bdfb42a2-418d-4ba5-b1f9-6d61d5d84411 needs to be added to group 8904d45f-bff8-46e0-ad5f-79b79cfdaf5a
+2025-01-30 15:24:19 - GroupId 8904d45f-bff8-46e0-ad5f-79b79cfdaf5a matches an entry in the MatchingData array. No action needed.
+2025-01-30 15:24:20 - User a18bc7a5-b3da-4b5e-81f5-1223e1bed7cb needs to be added to group 8904d45f-bff8-46e0-ad5f-79b79cfdaf5a
+2025-01-30 15:24:21 - GroupId 8904d45f-bff8-46e0-ad5f-79b79cfdaf5a matches an entry in the MatchingData array. No action needed.
+2025-01-30 15:24:22 - User 23195fd5-409a-48e3-a158-d4112a0a16d0 needs to be added to group e73c82cd-a510-4c67-a54e-b306d77eb760
+2025-01-30 15:24:23 - GroupId e73c82cd-a510-4c67-a54e-b306d77eb760 matches an entry in the MatchingData array. No action needed.
+2025-01-30 15:24:23 - User 0ea9e8e4-154c-476e-b442-09736eb6a479 needs to be added to group e73c82cd-a510-4c67-a54e-b306d77eb760
+2025-01-30 15:24:24 - GroupId e73c82cd-a510-4c67-a54e-b306d77eb760 matches an entry in the MatchingData array. No action needed.
+2025-01-30 15:24:24 - User 3e20f859-5e76-491e-9318-eb9100408295 needs to be added to group 77b2982f-07fd-4c46-a9eb-88e90866169c
+2025-01-30 15:24:25 - User with ID 3e20f859-5e76-491e-9318-eb9100408295 added to Group with ID 77b2982f-07fd-4c46-a9eb-88e90866169c successfully.
+2025-01-30 15:24:25 - GroupId 77b2982f-07fd-4c46-a9eb-88e90866169c matches an entry in the MatchingData array. No action needed.
+2025-01-30 15:24:26 - Department is null or empty for user da4ab631-c7d2-44f1-b008-4748da94ee58
+2025-01-30 15:24:27 - Department is null or empty for user e1a1335c-b29e-4f39-9f56-6f431f6909cf
+2025-01-30 15:24:28 - Department is null or empty for user 44db08ff-6bc0-48f6-bd7c-311469af9da0
+2025-01-30 15:24:30 - User 2cf78781-64ad-48f1-9941-60f94bda3570 needs to be added to group 77b2982f-07fd-4c46-a9eb-88e90866169c
+2025-01-30 15:24:30 - GroupId 77b2982f-07fd-4c46-a9eb-88e90866169c matches an entry in the MatchingData array. No action needed.
+2025-01-30 15:24:31 - User eccad7fc-c960-4a2b-aa6f-7c637844c8d7 needs to be added to group 8904d45f-bff8-46e0-ad5f-79b79cfdaf5a
+2025-01-30 15:24:32 - GroupId 8904d45f-bff8-46e0-ad5f-79b79cfdaf5a matches an entry in the MatchingData array. No action needed.
+2025-01-30 15:24:33 - User 353ecb0e-c1ae-48f8-8a74-293ca227c738 needs to be added to group 8904d45f-bff8-46e0-ad5f-79b79cfdaf5a
+2025-01-30 15:24:33 - GroupId 8904d45f-bff8-46e0-ad5f-79b79cfdaf5a matches an entry in the MatchingData array. No action needed.
+2025-01-30 15:24:34 - User 7a5c7803-987d-4ad3-9b37-e4dff2b69c7f needs to be added to group 8904d45f-bff8-46e0-ad5f-79b79cfdaf5a
+2025-01-30 15:24:35 - GroupId 8904d45f-bff8-46e0-ad5f-79b79cfdaf5a matches an entry in the MatchingData array. No action needed.
+2025-01-30 15:24:36 - User 6361a132-6116-4c17-bc1b-8aa42e96e896 needs to be added to group 8904d45f-bff8-46e0-ad5f-79b79cfdaf5a
+2025-01-30 15:24:36 - GroupId 8904d45f-bff8-46e0-ad5f-79b79cfdaf5a matches an entry in the MatchingData array. No action needed.
+2025-01-30 15:24:37 - User 9439b7eb-b70d-4962-aa31-fb8e48474867 needs to be added to group 8904d45f-bff8-46e0-ad5f-79b79cfdaf5a
+2025-01-30 15:24:38 - GroupId 8904d45f-bff8-46e0-ad5f-79b79cfdaf5a matches an entry in the MatchingData array. No action needed.
+2025-01-30 15:24:39 - User dfad45a8-c402-41ff-b040-38249dc90902 needs to be added to group 77097e09-0624-4882-8513-b902360434b5
+2025-01-30 15:24:40 - GroupId 77097e09-0624-4882-8513-b902360434b5 matches an entry in the MatchingData array. No action needed.
+2025-01-30 15:24:40 - User d2cd7c8a-3973-4eba-9e0b-9d99a33dbbab needs to be added to group 8904d45f-bff8-46e0-ad5f-79b79cfdaf5a
+2025-01-30 15:24:41 - GroupId 8904d45f-bff8-46e0-ad5f-79b79cfdaf5a matches an entry in the MatchingData array. No action needed.
+2025-01-30 15:24:42 - User 2f85ac5a-8870-41e5-9e4c-48c280c769d9 needs to be added to group e73c82cd-a510-4c67-a54e-b306d77eb760
+2025-01-30 15:24:43 - GroupId e73c82cd-a510-4c67-a54e-b306d77eb760 matches an entry in the MatchingData array. No action needed.
+2025-01-30 15:24:43 - Department is null or empty for user 85ed0166-fb2c-4d73-8db9-ec127e37253d
+2025-01-30 15:24:45 - User a3149c6b-07fc-49c7-8d9c-82cdc2017f42 needs to be added to group e73c82cd-a510-4c67-a54e-b306d77eb760
+2025-01-30 15:24:46 - GroupId e73c82cd-a510-4c67-a54e-b306d77eb760 matches an entry in the MatchingData array. No action needed.
+2025-01-30 15:24:46 - Department is null or empty for user c8732f08-feaa-4dfb-9ef4-e9ffd7f66465
+2025-01-30 15:24:47 - Department is null or empty for user 4367913d-ffff-460f-9798-fe547f522d92
+2025-01-30 15:24:49 - User 70278c48-ed38-4ae3-a0f9-ac2f6f4c96d1 needs to be added to group 77097e09-0624-4882-8513-b902360434b5
+2025-01-30 15:24:50 - GroupId 77097e09-0624-4882-8513-b902360434b5 matches an entry in the MatchingData array. No action needed.
+2025-01-30 15:24:50 - User 5aeedea1-d287-434a-a32f-7299db677d2a needs to be added to group cbcc75aa-e9d6-49d6-9792-93cfc04dd4ee
+2025-01-30 15:24:51 - GroupId cbcc75aa-e9d6-49d6-9792-93cfc04dd4ee matches an entry in the MatchingData array. No action needed.
+2025-01-30 15:24:52 - User 782d1332-8350-4013-831f-725e116cb5d0 needs to be added to group e73c82cd-a510-4c67-a54e-b306d77eb760
+2025-01-30 15:24:53 - GroupId e73c82cd-a510-4c67-a54e-b306d77eb760 matches an entry in the MatchingData array. No action needed.
+2025-01-30 15:24:53 - Script execution completed. Waiting for the next run.
+2025-01-30 18:08:07 - Excel is updated now update Azure AD
+2025-01-30 18:08:07 - User department updated successfully.
+2025-01-30 18:08:08 - User department updated successfully.
+2025-01-30 18:08:08 - User department updated successfully.
+2025-01-30 18:08:08 - User department updated successfully.
+2025-01-30 18:08:08 - User department updated successfully.
+2025-01-30 18:08:08 - User department updated successfully.
+2025-01-30 18:08:09 - User department updated successfully.
+2025-01-30 18:08:09 - User department updated successfully.
+2025-01-30 18:08:09 - User department updated successfully.
+2025-01-30 18:08:09 - User department updated successfully.
+2025-01-30 18:08:09 - User department updated successfully.
+2025-01-30 18:08:09 - User department updated successfully.
+2025-01-30 18:08:10 - User department updated successfully.
+2025-01-30 18:08:10 - User restored successfully! User ID: c9d7981c-27b6-4270-8fc2-181c32caf853
+2025-01-30 18:08:10 - User department updated successfully.
+2025-01-30 18:08:10 - User department updated successfully.
+2025-01-30 18:08:11 - User department updated successfully.
+2025-01-30 18:08:11 - User department updated successfully.
+2025-01-30 18:08:11 - User department updated successfully.
+2025-01-30 18:08:11 - User department updated successfully.
+2025-01-30 18:08:11 - User department updated successfully.
+2025-01-30 18:08:12 - User department updated successfully.
+2025-01-30 18:08:12 - User department updated successfully.
+2025-01-30 18:08:12 - User department updated successfully.
+2025-01-30 18:08:12 - User department updated successfully.
+2025-01-30 18:08:12 - User department updated successfully.
+2025-01-30 18:08:13 - User department updated successfully.
+2025-01-30 18:08:13 - User department updated successfully.
+2025-01-30 18:08:13 - User department updated successfully.
+2025-01-30 18:08:13 - User department updated successfully.
+2025-01-30 18:08:13 - User department updated successfully.
+2025-01-30 18:08:14 - User department updated successfully.
+2025-01-30 18:08:14 - User department updated successfully.
+2025-01-30 18:08:14 - User department updated successfully.
+2025-01-30 18:08:14 - User department updated successfully.
+2025-01-30 18:08:14 - User department updated successfully.
+2025-01-30 18:08:14 - Processing DL
+2025-01-30 18:08:15 - Group details successfully stored in variable 'GroupsData'
+2025-01-30 18:08:15 - Group details successfully stored in variable 'GroupsData'
+2025-01-30 18:08:16 - Group details successfully stored in variable 'GroupsData'
+2025-01-30 18:08:16 - Group details successfully stored in variable 'GroupsData'
+2025-01-30 18:08:16 - Group details successfully stored in variable 'GroupsData'
+2025-01-30 18:08:16 - Group details successfully stored in variable 'GroupsData'
+2025-01-30 18:08:16 - Group details successfully stored in variable 'GroupsData'
+2025-01-30 18:08:16 -      
+2025-01-30 18:08:16 - User 2ec5bf74-c1f1-439d-b747-76f9a3f4492c needs to be added to group 77097e09-0624-4882-8513-b902360434b5
+2025-01-30 18:08:17 - GroupId 77097e09-0624-4882-8513-b902360434b5 matches an entry in the MatchingData array. No action needed.
+2025-01-30 18:08:18 - User baaf4910-2758-4d6e-b799-3b39a980a39d needs to be added to group e73c82cd-a510-4c67-a54e-b306d77eb760
+2025-01-30 18:08:19 - GroupId e73c82cd-a510-4c67-a54e-b306d77eb760 matches an entry in the MatchingData array. No action needed.
+2025-01-30 18:08:19 - User f71338a0-5d86-45b8-b679-8acbc2165028 needs to be added to group e73c82cd-a510-4c67-a54e-b306d77eb760
+2025-01-30 18:08:20 - GroupId e73c82cd-a510-4c67-a54e-b306d77eb760 matches an entry in the MatchingData array. No action needed.
+2025-01-30 18:08:21 - User c5bb2422-528c-4011-94e3-7e477ea1a4d8 needs to be added to group 77b2982f-07fd-4c46-a9eb-88e90866169c
+2025-01-30 18:08:21 - GroupId 77b2982f-07fd-4c46-a9eb-88e90866169c matches an entry in the MatchingData array. No action needed.
+2025-01-30 18:08:22 - User 7b501d2b-bd16-4256-9f72-3e3f36f945dd needs to be added to group e43affb7-cad0-4d35-824d-4402f6d735a5
+2025-01-30 18:08:23 - GroupId e43affb7-cad0-4d35-824d-4402f6d735a5 matches an entry in the MatchingData array. No action needed.
+2025-01-30 18:08:23 - User 615345d0-4287-42cb-9fd1-6dead32082ac needs to be added to group 77097e09-0624-4882-8513-b902360434b5
+2025-01-30 18:08:25 - GroupId 77097e09-0624-4882-8513-b902360434b5 matches an entry in the MatchingData array. No action needed.
+2025-01-30 18:08:25 - User d7695ae5-95d5-4e2b-afc7-eb0fc631501c needs to be added to group cbcc75aa-e9d6-49d6-9792-93cfc04dd4ee
+2025-01-30 18:08:26 - GroupId cbcc75aa-e9d6-49d6-9792-93cfc04dd4ee matches an entry in the MatchingData array. No action needed.
+2025-01-30 18:08:26 - User 7be2268c-52c4-4da6-bf88-08468b5aa333 needs to be added to group cbcc75aa-e9d6-49d6-9792-93cfc04dd4ee
+2025-01-30 18:08:27 - GroupId cbcc75aa-e9d6-49d6-9792-93cfc04dd4ee matches an entry in the MatchingData array. No action needed.
+2025-01-30 18:08:28 - User bdfb42a2-418d-4ba5-b1f9-6d61d5d84411 needs to be added to group 8904d45f-bff8-46e0-ad5f-79b79cfdaf5a
+2025-01-30 18:08:28 - GroupId 8904d45f-bff8-46e0-ad5f-79b79cfdaf5a matches an entry in the MatchingData array. No action needed.
+2025-01-30 18:08:29 - User a18bc7a5-b3da-4b5e-81f5-1223e1bed7cb needs to be added to group 8904d45f-bff8-46e0-ad5f-79b79cfdaf5a
+2025-01-30 18:08:30 - GroupId 8904d45f-bff8-46e0-ad5f-79b79cfdaf5a matches an entry in the MatchingData array. No action needed.
+2025-01-30 18:08:31 - User 23195fd5-409a-48e3-a158-d4112a0a16d0 needs to be added to group e73c82cd-a510-4c67-a54e-b306d77eb760
+2025-01-30 18:08:32 - GroupId e73c82cd-a510-4c67-a54e-b306d77eb760 matches an entry in the MatchingData array. No action needed.
+2025-01-30 18:08:32 - User 0ea9e8e4-154c-476e-b442-09736eb6a479 needs to be added to group e73c82cd-a510-4c67-a54e-b306d77eb760
+2025-01-30 18:08:34 - GroupId e73c82cd-a510-4c67-a54e-b306d77eb760 matches an entry in the MatchingData array. No action needed.
+2025-01-30 18:08:34 - User 3e20f859-5e76-491e-9318-eb9100408295 needs to be added to group 77b2982f-07fd-4c46-a9eb-88e90866169c
+2025-01-30 18:08:35 - GroupId 77b2982f-07fd-4c46-a9eb-88e90866169c matches an entry in the MatchingData array. No action needed.
+2025-01-30 18:08:36 - User c9d7981c-27b6-4270-8fc2-181c32caf853 needs to be added to group 8904d45f-bff8-46e0-ad5f-79b79cfdaf5a
+2025-01-30 18:08:36 - User with ID c9d7981c-27b6-4270-8fc2-181c32caf853 added to Group with ID 8904d45f-bff8-46e0-ad5f-79b79cfdaf5a successfully.
+2025-01-30 18:08:36 - GroupId 8904d45f-bff8-46e0-ad5f-79b79cfdaf5a matches an entry in the MatchingData array. No action needed.
+2025-01-30 18:08:37 - Department is null or empty for user da4ab631-c7d2-44f1-b008-4748da94ee58
+2025-01-30 18:08:38 - Department is null or empty for user e1a1335c-b29e-4f39-9f56-6f431f6909cf
+2025-01-30 18:08:40 - Department is null or empty for user 44db08ff-6bc0-48f6-bd7c-311469af9da0
+2025-01-30 18:08:41 - User 2cf78781-64ad-48f1-9941-60f94bda3570 needs to be added to group 77b2982f-07fd-4c46-a9eb-88e90866169c
+2025-01-30 18:08:42 - GroupId 77b2982f-07fd-4c46-a9eb-88e90866169c matches an entry in the MatchingData array. No action needed.
+2025-01-30 18:08:42 - User eccad7fc-c960-4a2b-aa6f-7c637844c8d7 needs to be added to group 8904d45f-bff8-46e0-ad5f-79b79cfdaf5a
+2025-01-30 18:08:43 - GroupId 8904d45f-bff8-46e0-ad5f-79b79cfdaf5a matches an entry in the MatchingData array. No action needed.
+2025-01-30 18:08:44 - User 353ecb0e-c1ae-48f8-8a74-293ca227c738 needs to be added to group 8904d45f-bff8-46e0-ad5f-79b79cfdaf5a
+2025-01-30 18:08:44 - GroupId 8904d45f-bff8-46e0-ad5f-79b79cfdaf5a matches an entry in the MatchingData array. No action needed.
+2025-01-30 18:08:45 - User 7a5c7803-987d-4ad3-9b37-e4dff2b69c7f needs to be added to group 8904d45f-bff8-46e0-ad5f-79b79cfdaf5a
+2025-01-30 18:08:46 - GroupId 8904d45f-bff8-46e0-ad5f-79b79cfdaf5a matches an entry in the MatchingData array. No action needed.
+2025-01-30 18:08:47 - User 6361a132-6116-4c17-bc1b-8aa42e96e896 needs to be added to group 8904d45f-bff8-46e0-ad5f-79b79cfdaf5a
+2025-01-30 18:08:47 - GroupId 8904d45f-bff8-46e0-ad5f-79b79cfdaf5a matches an entry in the MatchingData array. No action needed.
+2025-01-30 18:08:48 - User 9439b7eb-b70d-4962-aa31-fb8e48474867 needs to be added to group 8904d45f-bff8-46e0-ad5f-79b79cfdaf5a
+2025-01-30 18:08:49 - GroupId 8904d45f-bff8-46e0-ad5f-79b79cfdaf5a matches an entry in the MatchingData array. No action needed.
+2025-01-30 18:08:50 - User dfad45a8-c402-41ff-b040-38249dc90902 needs to be added to group 77097e09-0624-4882-8513-b902360434b5
+2025-01-30 18:08:51 - GroupId 77097e09-0624-4882-8513-b902360434b5 matches an entry in the MatchingData array. No action needed.
+2025-01-30 18:08:51 - User d2cd7c8a-3973-4eba-9e0b-9d99a33dbbab needs to be added to group 8904d45f-bff8-46e0-ad5f-79b79cfdaf5a
+2025-01-30 18:08:51 - GroupId 8904d45f-bff8-46e0-ad5f-79b79cfdaf5a matches an entry in the MatchingData array. No action needed.
+2025-01-30 18:08:52 - User 2f85ac5a-8870-41e5-9e4c-48c280c769d9 needs to be added to group e73c82cd-a510-4c67-a54e-b306d77eb760
+2025-01-30 18:08:54 - GroupId e73c82cd-a510-4c67-a54e-b306d77eb760 matches an entry in the MatchingData array. No action needed.
+2025-01-30 18:08:54 - Department is null or empty for user 85ed0166-fb2c-4d73-8db9-ec127e37253d
+2025-01-30 18:08:55 - User a3149c6b-07fc-49c7-8d9c-82cdc2017f42 needs to be added to group e73c82cd-a510-4c67-a54e-b306d77eb760
+2025-01-30 18:08:56 - GroupId e73c82cd-a510-4c67-a54e-b306d77eb760 matches an entry in the MatchingData array. No action needed.
+2025-01-30 18:08:56 - Department is null or empty for user c8732f08-feaa-4dfb-9ef4-e9ffd7f66465
+2025-01-30 18:08:58 - Department is null or empty for user 4367913d-ffff-460f-9798-fe547f522d92
+2025-01-30 18:08:59 - User 70278c48-ed38-4ae3-a0f9-ac2f6f4c96d1 needs to be added to group 77097e09-0624-4882-8513-b902360434b5
+2025-01-30 18:09:00 - GroupId 77097e09-0624-4882-8513-b902360434b5 matches an entry in the MatchingData array. No action needed.
+2025-01-30 18:09:00 - User 5aeedea1-d287-434a-a32f-7299db677d2a needs to be added to group cbcc75aa-e9d6-49d6-9792-93cfc04dd4ee
+2025-01-30 18:09:01 - GroupId cbcc75aa-e9d6-49d6-9792-93cfc04dd4ee matches an entry in the MatchingData array. No action needed.
+2025-01-30 18:09:02 - User 782d1332-8350-4013-831f-725e116cb5d0 needs to be added to group e73c82cd-a510-4c67-a54e-b306d77eb760
+2025-01-30 18:09:03 - GroupId e73c82cd-a510-4c67-a54e-b306d77eb760 matches an entry in the MatchingData array. No action needed.
+2025-01-30 18:09:05 - Script execution completed. Waiting for the next run.
+2025-01-31 10:40:44 - Test log entry for default file
+2025-01-31 10:43:20 - User department updated successfully.
+2025-01-31 10:47:29 - Azure AD is updated last.
+2025-01-31 10:47:30 - User details have been updated in the Excel file: C:\Users\rahulsachin1\Desktop\Hospice Final Presentation\UserData.xlsx
+2025-01-31 10:47:30 - Processing DL
+2025-01-31 10:47:31 - Group details successfully stored in variable 'GroupsData'
+2025-01-31 10:47:31 - Group details successfully stored in variable 'GroupsData'
+2025-01-31 10:47:31 - Group details successfully stored in variable 'GroupsData'
+2025-01-31 10:47:31 - Group details successfully stored in variable 'GroupsData'
+2025-01-31 10:47:32 - Group details successfully stored in variable 'GroupsData'
+2025-01-31 10:47:32 - Group details successfully stored in variable 'GroupsData'
+2025-01-31 10:47:32 - Group details successfully stored in variable 'GroupsData'
+2025-01-31 10:47:32 -      
+2025-01-31 10:47:32 - User 2ec5bf74-c1f1-439d-b747-76f9a3f4492c needs to be added to group 77097e09-0624-4882-8513-b902360434b5
+2025-01-31 10:47:32 - GroupId 77097e09-0624-4882-8513-b902360434b5 matches an entry in the MatchingData array. No action needed.
+2025-01-31 10:47:33 - GroupId 77097e09-0624-4882-8513-b902360434b5 matches an entry in the MatchingData array. No action needed.
+2025-01-31 10:47:33 - User baaf4910-2758-4d6e-b799-3b39a980a39d needs to be added to group e73c82cd-a510-4c67-a54e-b306d77eb760
+2025-01-31 10:47:35 - GroupId e73c82cd-a510-4c67-a54e-b306d77eb760 matches an entry in the MatchingData array. No action needed.
+2025-01-31 10:47:35 - User f71338a0-5d86-45b8-b679-8acbc2165028 needs to be added to group e73c82cd-a510-4c67-a54e-b306d77eb760
+2025-01-31 10:47:37 - GroupId e73c82cd-a510-4c67-a54e-b306d77eb760 matches an entry in the MatchingData array. No action needed.
+2025-01-31 10:47:37 - User c5bb2422-528c-4011-94e3-7e477ea1a4d8 needs to be added to group 77b2982f-07fd-4c46-a9eb-88e90866169c
+2025-01-31 10:47:38 - GroupId 77b2982f-07fd-4c46-a9eb-88e90866169c matches an entry in the MatchingData array. No action needed.
+2025-01-31 10:47:38 - Department is null or empty for user 7b501d2b-bd16-4256-9f72-3e3f36f945dd
+2025-01-31 10:47:40 - User 615345d0-4287-42cb-9fd1-6dead32082ac needs to be added to group 77097e09-0624-4882-8513-b902360434b5
+2025-01-31 10:47:40 - GroupId 77097e09-0624-4882-8513-b902360434b5 matches an entry in the MatchingData array. No action needed.
+2025-01-31 10:47:41 - GroupId 77097e09-0624-4882-8513-b902360434b5 matches an entry in the MatchingData array. No action needed.
+2025-01-31 10:47:41 - User d7695ae5-95d5-4e2b-afc7-eb0fc631501c needs to be added to group cbcc75aa-e9d6-49d6-9792-93cfc04dd4ee
+2025-01-31 10:47:42 - GroupId cbcc75aa-e9d6-49d6-9792-93cfc04dd4ee matches an entry in the MatchingData array. No action needed.
+2025-01-31 10:47:43 - User 7be2268c-52c4-4da6-bf88-08468b5aa333 needs to be added to group cbcc75aa-e9d6-49d6-9792-93cfc04dd4ee
+2025-01-31 10:47:44 - GroupId cbcc75aa-e9d6-49d6-9792-93cfc04dd4ee matches an entry in the MatchingData array. No action needed.
+2025-01-31 10:47:44 - User bdfb42a2-418d-4ba5-b1f9-6d61d5d84411 needs to be added to group 8904d45f-bff8-46e0-ad5f-79b79cfdaf5a
+2025-01-31 10:47:45 - GroupId 8904d45f-bff8-46e0-ad5f-79b79cfdaf5a matches an entry in the MatchingData array. No action needed.
+2025-01-31 10:47:46 - User a18bc7a5-b3da-4b5e-81f5-1223e1bed7cb needs to be added to group 8904d45f-bff8-46e0-ad5f-79b79cfdaf5a
+2025-01-31 10:47:46 - GroupId 8904d45f-bff8-46e0-ad5f-79b79cfdaf5a matches an entry in the MatchingData array. No action needed.
+2025-01-31 10:47:47 - User 23195fd5-409a-48e3-a158-d4112a0a16d0 needs to be added to group e73c82cd-a510-4c67-a54e-b306d77eb760
+2025-01-31 10:47:48 - GroupId e73c82cd-a510-4c67-a54e-b306d77eb760 matches an entry in the MatchingData array. No action needed.
+2025-01-31 10:47:48 - User 0ea9e8e4-154c-476e-b442-09736eb6a479 needs to be added to group e73c82cd-a510-4c67-a54e-b306d77eb760
+2025-01-31 10:47:50 - GroupId e73c82cd-a510-4c67-a54e-b306d77eb760 matches an entry in the MatchingData array. No action needed.
+2025-01-31 10:47:50 - User 3e20f859-5e76-491e-9318-eb9100408295 needs to be added to group 77b2982f-07fd-4c46-a9eb-88e90866169c
+2025-01-31 10:47:51 - GroupId 77b2982f-07fd-4c46-a9eb-88e90866169c matches an entry in the MatchingData array. No action needed.
+2025-01-31 10:47:51 - User c9d7981c-27b6-4270-8fc2-181c32caf853 needs to be added to group 8904d45f-bff8-46e0-ad5f-79b79cfdaf5a
+2025-01-31 10:47:52 - GroupId 8904d45f-bff8-46e0-ad5f-79b79cfdaf5a matches an entry in the MatchingData array. No action needed.
+2025-01-31 10:47:53 - Department is null or empty for user da4ab631-c7d2-44f1-b008-4748da94ee58
+2025-01-31 10:47:54 - Department is null or empty for user e1a1335c-b29e-4f39-9f56-6f431f6909cf
+2025-01-31 10:47:55 - Department is null or empty for user 44db08ff-6bc0-48f6-bd7c-311469af9da0
+2025-01-31 10:47:57 - User 2cf78781-64ad-48f1-9941-60f94bda3570 needs to be added to group 77b2982f-07fd-4c46-a9eb-88e90866169c
+2025-01-31 10:47:57 - GroupId 77b2982f-07fd-4c46-a9eb-88e90866169c matches an entry in the MatchingData array. No action needed.
+2025-01-31 10:47:58 - User eccad7fc-c960-4a2b-aa6f-7c637844c8d7 needs to be added to group 8904d45f-bff8-46e0-ad5f-79b79cfdaf5a
+2025-01-31 10:47:59 - GroupId 8904d45f-bff8-46e0-ad5f-79b79cfdaf5a matches an entry in the MatchingData array. No action needed.
+2025-01-31 10:48:00 - User 353ecb0e-c1ae-48f8-8a74-293ca227c738 needs to be added to group 8904d45f-bff8-46e0-ad5f-79b79cfdaf5a
+2025-01-31 10:48:00 - GroupId 8904d45f-bff8-46e0-ad5f-79b79cfdaf5a matches an entry in the MatchingData array. No action needed.
+2025-01-31 10:48:01 - User 7a5c7803-987d-4ad3-9b37-e4dff2b69c7f needs to be added to group 8904d45f-bff8-46e0-ad5f-79b79cfdaf5a
+2025-01-31 10:48:02 - GroupId 8904d45f-bff8-46e0-ad5f-79b79cfdaf5a matches an entry in the MatchingData array. No action needed.
+2025-01-31 10:48:03 - User 6361a132-6116-4c17-bc1b-8aa42e96e896 needs to be added to group 8904d45f-bff8-46e0-ad5f-79b79cfdaf5a
+2025-01-31 10:48:03 - GroupId 8904d45f-bff8-46e0-ad5f-79b79cfdaf5a matches an entry in the MatchingData array. No action needed.
+2025-01-31 10:48:04 - User 9439b7eb-b70d-4962-aa31-fb8e48474867 needs to be added to group 8904d45f-bff8-46e0-ad5f-79b79cfdaf5a
+2025-01-31 10:48:05 - GroupId 8904d45f-bff8-46e0-ad5f-79b79cfdaf5a matches an entry in the MatchingData array. No action needed.
+2025-01-31 10:48:06 - User dfad45a8-c402-41ff-b040-38249dc90902 needs to be added to group 77097e09-0624-4882-8513-b902360434b5
+2025-01-31 10:48:06 - GroupId 77097e09-0624-4882-8513-b902360434b5 matches an entry in the MatchingData array. No action needed.
+2025-01-31 10:48:07 - GroupId 77097e09-0624-4882-8513-b902360434b5 matches an entry in the MatchingData array. No action needed.
+2025-01-31 10:48:07 - User d2cd7c8a-3973-4eba-9e0b-9d99a33dbbab needs to be added to group 8904d45f-bff8-46e0-ad5f-79b79cfdaf5a
+2025-01-31 10:48:08 - GroupId 8904d45f-bff8-46e0-ad5f-79b79cfdaf5a matches an entry in the MatchingData array. No action needed.
+2025-01-31 10:48:09 - User 2f85ac5a-8870-41e5-9e4c-48c280c769d9 needs to be added to group e73c82cd-a510-4c67-a54e-b306d77eb760
+2025-01-31 10:48:11 - GroupId e73c82cd-a510-4c67-a54e-b306d77eb760 matches an entry in the MatchingData array. No action needed.
+2025-01-31 10:48:11 - Department is null or empty for user 85ed0166-fb2c-4d73-8db9-ec127e37253d
+2025-01-31 10:48:12 - User a3149c6b-07fc-49c7-8d9c-82cdc2017f42 needs to be added to group e73c82cd-a510-4c67-a54e-b306d77eb760
+2025-01-31 10:48:14 - GroupId e73c82cd-a510-4c67-a54e-b306d77eb760 matches an entry in the MatchingData array. No action needed.
+2025-01-31 10:48:14 - Department is null or empty for user c8732f08-feaa-4dfb-9ef4-e9ffd7f66465
+2025-01-31 10:48:15 - Department is null or empty for user 4367913d-ffff-460f-9798-fe547f522d92
+2025-01-31 10:48:17 - User 70278c48-ed38-4ae3-a0f9-ac2f6f4c96d1 needs to be added to group 77097e09-0624-4882-8513-b902360434b5
+2025-01-31 10:48:18 - GroupId 77097e09-0624-4882-8513-b902360434b5 matches an entry in the MatchingData array. No action needed.
+2025-01-31 10:48:18 - GroupId 77097e09-0624-4882-8513-b902360434b5 matches an entry in the MatchingData array. No action needed.
+2025-01-31 10:48:19 - User 5aeedea1-d287-434a-a32f-7299db677d2a needs to be added to group cbcc75aa-e9d6-49d6-9792-93cfc04dd4ee
+2025-01-31 10:48:20 - GroupId cbcc75aa-e9d6-49d6-9792-93cfc04dd4ee matches an entry in the MatchingData array. No action needed.
+2025-01-31 10:48:20 - User 782d1332-8350-4013-831f-725e116cb5d0 needs to be added to group e73c82cd-a510-4c67-a54e-b306d77eb760
+2025-01-31 10:48:22 - GroupId e73c82cd-a510-4c67-a54e-b306d77eb760 matches an entry in the MatchingData array. No action needed.
+2025-01-31 10:48:22 - Script execution completed. Waiting for the next run.
+2025-01-31 11:04:16 - Excel is updated now update Azure AD
+2025-01-31 11:04:17 - User department updated successfully.
+2025-01-31 11:04:17 - User department updated successfully.
+2025-01-31 11:04:17 - User department updated successfully.
+2025-01-31 11:04:18 - User department updated successfully.
+2025-01-31 11:04:18 - User department updated successfully.
+2025-01-31 11:04:18 - User department updated successfully.
+2025-01-31 11:04:18 - User department updated successfully.
+2025-01-31 11:04:18 - User department updated successfully.
+2025-01-31 11:04:19 - User department updated successfully.
+2025-01-31 11:04:19 - User department updated successfully.
+2025-01-31 11:04:19 - User department updated successfully.
+2025-01-31 11:04:19 - User department updated successfully.
+2025-01-31 11:04:19 - User department updated successfully.
+2025-01-31 11:04:20 - User department updated successfully.
+2025-01-31 11:04:20 - User restored successfully! User ID: fbfed52b-e2cf-4125-a910-1cef23366dc9
+2025-01-31 11:04:20 - User department updated successfully.
+2025-01-31 11:04:20 - User department updated successfully.
+2025-01-31 11:04:20 - User department updated successfully.
+2025-01-31 11:04:21 - User department updated successfully.
+2025-01-31 11:04:21 - User department updated successfully.
+2025-01-31 11:04:21 - User department updated successfully.
+2025-01-31 11:04:21 - User department updated successfully.
+2025-01-31 11:04:21 - User department updated successfully.
+2025-01-31 11:04:22 - User department updated successfully.
+2025-01-31 11:04:22 - User department updated successfully.
+2025-01-31 11:04:22 - User department updated successfully.
+2025-01-31 11:04:23 - User department updated successfully.
+2025-01-31 11:04:23 - User department updated successfully.
+2025-01-31 11:04:23 - User department updated successfully.
+2025-01-31 11:04:23 - User department updated successfully.
+2025-01-31 11:04:24 - User department updated successfully.
+2025-01-31 11:04:24 - User department updated successfully.
+2025-01-31 11:04:24 - User department updated successfully.
+2025-01-31 11:04:24 - User department updated successfully.
+2025-01-31 11:04:24 - User department updated successfully.
+2025-01-31 11:04:24 - User department updated successfully.
+2025-01-31 11:04:25 - User department updated successfully.
+2025-01-31 11:04:25 - Processing DL
+2025-01-31 11:04:25 - Group details successfully stored in variable 'GroupsData'
+2025-01-31 11:04:25 - Group details successfully stored in variable 'GroupsData'
+2025-01-31 11:04:26 - Group details successfully stored in variable 'GroupsData'
+2025-01-31 11:04:26 - Group details successfully stored in variable 'GroupsData'
+2025-01-31 11:04:26 - Group details successfully stored in variable 'GroupsData'
+2025-01-31 11:04:26 - Group details successfully stored in variable 'GroupsData'
+2025-01-31 11:04:26 - Group details successfully stored in variable 'GroupsData'
+2025-01-31 11:04:27 - Group created successfully!
+2025-01-31 11:04:27 - Group ID: 3ee61af2-35b1-47c4-b52c-b64f0de0b432
+2025-01-31 11:04:27 - Group Display Name: MANAGEMENT
+2025-01-31 11:04:27 - Group Mail Nickname: management
+2025-01-31 11:04:27 -      
+2025-01-31 11:04:27 - User 2ec5bf74-c1f1-439d-b747-76f9a3f4492c needs to be added to group 77097e09-0624-4882-8513-b902360434b5
+2025-01-31 11:04:28 - GroupId 77097e09-0624-4882-8513-b902360434b5 matches an entry in the MatchingData array. No action needed.
+2025-01-31 11:04:28 - User baaf4910-2758-4d6e-b799-3b39a980a39d needs to be added to group e73c82cd-a510-4c67-a54e-b306d77eb760
+2025-01-31 11:04:29 - GroupId e73c82cd-a510-4c67-a54e-b306d77eb760 matches an entry in the MatchingData array. No action needed.
+2025-01-31 11:04:30 - User f71338a0-5d86-45b8-b679-8acbc2165028 needs to be added to group e73c82cd-a510-4c67-a54e-b306d77eb760
+2025-01-31 11:04:31 - GroupId e73c82cd-a510-4c67-a54e-b306d77eb760 matches an entry in the MatchingData array. No action needed.
+2025-01-31 11:04:31 - User c5bb2422-528c-4011-94e3-7e477ea1a4d8 needs to be added to group 77b2982f-07fd-4c46-a9eb-88e90866169c
+2025-01-31 11:04:32 - GroupId 77b2982f-07fd-4c46-a9eb-88e90866169c matches an entry in the MatchingData array. No action needed.
+2025-01-31 11:04:33 - Department is null or empty for user 7b501d2b-bd16-4256-9f72-3e3f36f945dd
+2025-01-31 11:04:34 - User 615345d0-4287-42cb-9fd1-6dead32082ac needs to be added to group 77097e09-0624-4882-8513-b902360434b5
+2025-01-31 11:04:35 - GroupId 77097e09-0624-4882-8513-b902360434b5 matches an entry in the MatchingData array. No action needed.
+2025-01-31 11:04:35 - User d7695ae5-95d5-4e2b-afc7-eb0fc631501c needs to be added to group cbcc75aa-e9d6-49d6-9792-93cfc04dd4ee
+2025-01-31 11:04:36 - GroupId cbcc75aa-e9d6-49d6-9792-93cfc04dd4ee matches an entry in the MatchingData array. No action needed.
+2025-01-31 11:04:37 - User 7be2268c-52c4-4da6-bf88-08468b5aa333 needs to be added to group cbcc75aa-e9d6-49d6-9792-93cfc04dd4ee
+2025-01-31 11:04:37 - GroupId cbcc75aa-e9d6-49d6-9792-93cfc04dd4ee matches an entry in the MatchingData array. No action needed.
+2025-01-31 11:04:38 - User bdfb42a2-418d-4ba5-b1f9-6d61d5d84411 needs to be added to group 8904d45f-bff8-46e0-ad5f-79b79cfdaf5a
+2025-01-31 11:04:39 - GroupId 8904d45f-bff8-46e0-ad5f-79b79cfdaf5a matches an entry in the MatchingData array. No action needed.
+2025-01-31 11:04:40 - User a18bc7a5-b3da-4b5e-81f5-1223e1bed7cb needs to be added to group 8904d45f-bff8-46e0-ad5f-79b79cfdaf5a
+2025-01-31 11:04:40 - GroupId 8904d45f-bff8-46e0-ad5f-79b79cfdaf5a matches an entry in the MatchingData array. No action needed.
+2025-01-31 11:04:41 - User 23195fd5-409a-48e3-a158-d4112a0a16d0 needs to be added to group e73c82cd-a510-4c67-a54e-b306d77eb760
+2025-01-31 11:04:42 - GroupId e73c82cd-a510-4c67-a54e-b306d77eb760 matches an entry in the MatchingData array. No action needed.
+2025-01-31 11:04:43 - User 0ea9e8e4-154c-476e-b442-09736eb6a479 needs to be added to group e73c82cd-a510-4c67-a54e-b306d77eb760
+2025-01-31 11:04:44 - GroupId e73c82cd-a510-4c67-a54e-b306d77eb760 matches an entry in the MatchingData array. No action needed.
+2025-01-31 11:04:44 - User 3e20f859-5e76-491e-9318-eb9100408295 needs to be added to group 77b2982f-07fd-4c46-a9eb-88e90866169c
+2025-01-31 11:04:45 - GroupId 77b2982f-07fd-4c46-a9eb-88e90866169c matches an entry in the MatchingData array. No action needed.
+2025-01-31 11:04:45 - User c9d7981c-27b6-4270-8fc2-181c32caf853 needs to be added to group 8904d45f-bff8-46e0-ad5f-79b79cfdaf5a
+2025-01-31 11:04:46 - GroupId 8904d45f-bff8-46e0-ad5f-79b79cfdaf5a matches an entry in the MatchingData array. No action needed.
+2025-01-31 11:04:47 - User fbfed52b-e2cf-4125-a910-1cef23366dc9 needs to be added to group 3ee61af2-35b1-47c4-b52c-b64f0de0b432
+2025-01-31 11:04:48 - User with ID fbfed52b-e2cf-4125-a910-1cef23366dc9 added to Group with ID 3ee61af2-35b1-47c4-b52c-b64f0de0b432 successfully.
+2025-01-31 11:04:49 - GroupId 3ee61af2-35b1-47c4-b52c-b64f0de0b432 matches an entry in the MatchingData array. No action needed.
+2025-01-31 11:04:49 - Department is null or empty for user da4ab631-c7d2-44f1-b008-4748da94ee58
+2025-01-31 11:04:50 - Department is null or empty for user e1a1335c-b29e-4f39-9f56-6f431f6909cf
+2025-01-31 11:04:51 - Department is null or empty for user 44db08ff-6bc0-48f6-bd7c-311469af9da0
+2025-01-31 11:04:52 - User 2cf78781-64ad-48f1-9941-60f94bda3570 needs to be added to group 77b2982f-07fd-4c46-a9eb-88e90866169c
+2025-01-31 11:04:53 - GroupId 77b2982f-07fd-4c46-a9eb-88e90866169c matches an entry in the MatchingData array. No action needed.
+2025-01-31 11:04:54 - User eccad7fc-c960-4a2b-aa6f-7c637844c8d7 needs to be added to group 8904d45f-bff8-46e0-ad5f-79b79cfdaf5a
+2025-01-31 11:04:54 - GroupId 8904d45f-bff8-46e0-ad5f-79b79cfdaf5a matches an entry in the MatchingData array. No action needed.
+2025-01-31 11:04:55 - User 353ecb0e-c1ae-48f8-8a74-293ca227c738 needs to be added to group 8904d45f-bff8-46e0-ad5f-79b79cfdaf5a
+2025-01-31 11:04:56 - GroupId 8904d45f-bff8-46e0-ad5f-79b79cfdaf5a matches an entry in the MatchingData array. No action needed.
+2025-01-31 11:04:56 - User 7a5c7803-987d-4ad3-9b37-e4dff2b69c7f needs to be added to group 8904d45f-bff8-46e0-ad5f-79b79cfdaf5a
+2025-01-31 11:04:57 - GroupId 8904d45f-bff8-46e0-ad5f-79b79cfdaf5a matches an entry in the MatchingData array. No action needed.
+2025-01-31 11:04:58 - User 6361a132-6116-4c17-bc1b-8aa42e96e896 needs to be added to group 8904d45f-bff8-46e0-ad5f-79b79cfdaf5a
+2025-01-31 11:04:58 - GroupId 8904d45f-bff8-46e0-ad5f-79b79cfdaf5a matches an entry in the MatchingData array. No action needed.
+2025-01-31 11:04:59 - User 9439b7eb-b70d-4962-aa31-fb8e48474867 needs to be added to group 8904d45f-bff8-46e0-ad5f-79b79cfdaf5a
+2025-01-31 11:05:00 - GroupId 8904d45f-bff8-46e0-ad5f-79b79cfdaf5a matches an entry in the MatchingData array. No action needed.
+2025-01-31 11:05:01 - User dfad45a8-c402-41ff-b040-38249dc90902 needs to be added to group 77097e09-0624-4882-8513-b902360434b5
+2025-01-31 11:05:02 - GroupId 77097e09-0624-4882-8513-b902360434b5 matches an entry in the MatchingData array. No action needed.
+2025-01-31 11:05:02 - User d2cd7c8a-3973-4eba-9e0b-9d99a33dbbab needs to be added to group 8904d45f-bff8-46e0-ad5f-79b79cfdaf5a
+2025-01-31 11:05:03 - GroupId 8904d45f-bff8-46e0-ad5f-79b79cfdaf5a matches an entry in the MatchingData array. No action needed.
+2025-01-31 11:05:04 - User 2f85ac5a-8870-41e5-9e4c-48c280c769d9 needs to be added to group e73c82cd-a510-4c67-a54e-b306d77eb760
+2025-01-31 11:05:05 - GroupId e73c82cd-a510-4c67-a54e-b306d77eb760 matches an entry in the MatchingData array. No action needed.
+2025-01-31 11:05:05 - Department is null or empty for user 85ed0166-fb2c-4d73-8db9-ec127e37253d
+2025-01-31 11:05:07 - User a3149c6b-07fc-49c7-8d9c-82cdc2017f42 needs to be added to group e73c82cd-a510-4c67-a54e-b306d77eb760
+2025-01-31 11:05:08 - GroupId e73c82cd-a510-4c67-a54e-b306d77eb760 matches an entry in the MatchingData array. No action needed.
+2025-01-31 11:05:08 - Department is null or empty for user c8732f08-feaa-4dfb-9ef4-e9ffd7f66465
+2025-01-31 11:05:09 - Department is null or empty for user 4367913d-ffff-460f-9798-fe547f522d92
+2025-01-31 11:05:10 - User 70278c48-ed38-4ae3-a0f9-ac2f6f4c96d1 needs to be added to group 77097e09-0624-4882-8513-b902360434b5
+2025-01-31 11:05:11 - GroupId 77097e09-0624-4882-8513-b902360434b5 matches an entry in the MatchingData array. No action needed.
+2025-01-31 11:05:12 - User 5aeedea1-d287-434a-a32f-7299db677d2a needs to be added to group cbcc75aa-e9d6-49d6-9792-93cfc04dd4ee
+2025-01-31 11:05:13 - GroupId cbcc75aa-e9d6-49d6-9792-93cfc04dd4ee matches an entry in the MatchingData array. No action needed.
+2025-01-31 11:05:13 - User 782d1332-8350-4013-831f-725e116cb5d0 needs to be added to group e73c82cd-a510-4c67-a54e-b306d77eb760
+2025-01-31 11:05:14 - GroupId e73c82cd-a510-4c67-a54e-b306d77eb760 matches an entry in the MatchingData array. No action needed.
+2025-01-31 11:05:15 - Script execution completed. Waiting for the next run.
+2025-01-31 11:19:47 - User department updated successfully.
+2025-01-31 12:22:49 - Azure AD is updated last.
+2025-01-31 12:22:50 - User details have been updated in the Excel file: C:\Users\rahulsachin1\Desktop\Hospice Final Presentation\UserData.xlsx
+2025-01-31 12:22:50 - Processing DL
+2025-01-31 12:22:50 - Group details successfully stored in variable 'GroupsData'
+2025-01-31 12:22:51 - Group details successfully stored in variable 'GroupsData'
+2025-01-31 12:22:51 - Group details successfully stored in variable 'GroupsData'
+2025-01-31 12:22:51 - Group details successfully stored in variable 'GroupsData'
+2025-01-31 12:22:51 - Group details successfully stored in variable 'GroupsData'
+2025-01-31 12:22:52 - Group details successfully stored in variable 'GroupsData'
+2025-01-31 12:22:52 - Group details successfully stored in variable 'GroupsData'
+2025-01-31 12:22:52 - Group details successfully stored in variable 'GroupsData'
+2025-01-31 12:22:52 - Group created successfully!
+2025-01-31 12:22:52 - Group ID: 1c20e136-1442-4464-9aa5-df041646da7c
+2025-01-31 12:22:52 - Group Display Name: MANAGEMENT
+2025-01-31 12:22:52 - Group Mail Nickname: management
+2025-01-31 12:22:52 -       
+2025-01-31 12:22:52 - User c15cad28-711a-4988-b227-76a915fcb7df needs to be added to group 1c20e136-1442-4464-9aa5-df041646da7c
+2025-01-31 12:22:53 - User with ID c15cad28-711a-4988-b227-76a915fcb7df added to Group with ID 1c20e136-1442-4464-9aa5-df041646da7c successfully.
+2025-01-31 12:22:54 - GroupId 1c20e136-1442-4464-9aa5-df041646da7c matches an entry in the MatchingData array. No action needed.
+2025-01-31 12:22:54 - User 2ec5bf74-c1f1-439d-b747-76f9a3f4492c needs to be added to group 77097e09-0624-4882-8513-b902360434b5
+2025-01-31 12:22:54 - GroupId 77097e09-0624-4882-8513-b902360434b5 matches an entry in the MatchingData array. No action needed.
+2025-01-31 12:22:55 - GroupId 77097e09-0624-4882-8513-b902360434b5 matches an entry in the MatchingData array. No action needed.
+2025-01-31 12:22:55 - User baaf4910-2758-4d6e-b799-3b39a980a39d needs to be added to group e73c82cd-a510-4c67-a54e-b306d77eb760
+2025-01-31 12:22:57 - GroupId e73c82cd-a510-4c67-a54e-b306d77eb760 matches an entry in the MatchingData array. No action needed.
+2025-01-31 12:22:57 - User f71338a0-5d86-45b8-b679-8acbc2165028 needs to be added to group e73c82cd-a510-4c67-a54e-b306d77eb760
+2025-01-31 12:22:59 - GroupId e73c82cd-a510-4c67-a54e-b306d77eb760 matches an entry in the MatchingData array. No action needed.
+2025-01-31 12:22:59 - User c5bb2422-528c-4011-94e3-7e477ea1a4d8 needs to be added to group 77b2982f-07fd-4c46-a9eb-88e90866169c
+2025-01-31 12:23:00 - GroupId 77b2982f-07fd-4c46-a9eb-88e90866169c matches an entry in the MatchingData array. No action needed.
+2025-01-31 12:23:01 - Department is null or empty for user 7b501d2b-bd16-4256-9f72-3e3f36f945dd
+2025-01-31 12:23:02 - User 615345d0-4287-42cb-9fd1-6dead32082ac needs to be added to group 77097e09-0624-4882-8513-b902360434b5
+2025-01-31 12:23:02 - GroupId 77097e09-0624-4882-8513-b902360434b5 matches an entry in the MatchingData array. No action needed.
+2025-01-31 12:23:03 - GroupId 77097e09-0624-4882-8513-b902360434b5 matches an entry in the MatchingData array. No action needed.
+2025-01-31 12:23:03 - User d7695ae5-95d5-4e2b-afc7-eb0fc631501c needs to be added to group cbcc75aa-e9d6-49d6-9792-93cfc04dd4ee
+2025-01-31 12:23:04 - GroupId cbcc75aa-e9d6-49d6-9792-93cfc04dd4ee matches an entry in the MatchingData array. No action needed.
+2025-01-31 12:23:05 - User 7be2268c-52c4-4da6-bf88-08468b5aa333 needs to be added to group cbcc75aa-e9d6-49d6-9792-93cfc04dd4ee
+2025-01-31 12:23:06 - GroupId cbcc75aa-e9d6-49d6-9792-93cfc04dd4ee matches an entry in the MatchingData array. No action needed.
+2025-01-31 12:23:07 - User bdfb42a2-418d-4ba5-b1f9-6d61d5d84411 needs to be added to group 8904d45f-bff8-46e0-ad5f-79b79cfdaf5a
+2025-01-31 12:23:08 - GroupId 8904d45f-bff8-46e0-ad5f-79b79cfdaf5a matches an entry in the MatchingData array. No action needed.
+2025-01-31 12:23:09 - User a18bc7a5-b3da-4b5e-81f5-1223e1bed7cb needs to be added to group 8904d45f-bff8-46e0-ad5f-79b79cfdaf5a
+2025-01-31 12:23:09 - GroupId 8904d45f-bff8-46e0-ad5f-79b79cfdaf5a matches an entry in the MatchingData array. No action needed.
+2025-01-31 12:23:10 - User 23195fd5-409a-48e3-a158-d4112a0a16d0 needs to be added to group e73c82cd-a510-4c67-a54e-b306d77eb760
+2025-01-31 12:23:11 - GroupId e73c82cd-a510-4c67-a54e-b306d77eb760 matches an entry in the MatchingData array. No action needed.
+2025-01-31 12:23:12 - User 0ea9e8e4-154c-476e-b442-09736eb6a479 needs to be added to group e73c82cd-a510-4c67-a54e-b306d77eb760
+2025-01-31 12:23:13 - GroupId e73c82cd-a510-4c67-a54e-b306d77eb760 matches an entry in the MatchingData array. No action needed.
+2025-01-31 12:23:13 - User 3e20f859-5e76-491e-9318-eb9100408295 needs to be added to group 77b2982f-07fd-4c46-a9eb-88e90866169c
+2025-01-31 12:23:14 - GroupId 77b2982f-07fd-4c46-a9eb-88e90866169c matches an entry in the MatchingData array. No action needed.
+2025-01-31 12:23:15 - User c9d7981c-27b6-4270-8fc2-181c32caf853 needs to be added to group 8904d45f-bff8-46e0-ad5f-79b79cfdaf5a
+2025-01-31 12:23:16 - GroupId 8904d45f-bff8-46e0-ad5f-79b79cfdaf5a matches an entry in the MatchingData array. No action needed.
+2025-01-31 12:23:17 - Department is null or empty for user fbfed52b-e2cf-4125-a910-1cef23366dc9
+2025-01-31 12:23:18 - Department is null or empty for user da4ab631-c7d2-44f1-b008-4748da94ee58
+2025-01-31 12:23:19 - Department is null or empty for user e1a1335c-b29e-4f39-9f56-6f431f6909cf
+2025-01-31 12:23:21 - Department is null or empty for user 44db08ff-6bc0-48f6-bd7c-311469af9da0
+2025-01-31 12:23:22 - User 2cf78781-64ad-48f1-9941-60f94bda3570 needs to be added to group 77b2982f-07fd-4c46-a9eb-88e90866169c
+2025-01-31 12:23:23 - GroupId 77b2982f-07fd-4c46-a9eb-88e90866169c matches an entry in the MatchingData array. No action needed.
+2025-01-31 12:23:24 - User eccad7fc-c960-4a2b-aa6f-7c637844c8d7 needs to be added to group 8904d45f-bff8-46e0-ad5f-79b79cfdaf5a
+2025-01-31 12:23:24 - GroupId 8904d45f-bff8-46e0-ad5f-79b79cfdaf5a matches an entry in the MatchingData array. No action needed.
+2025-01-31 12:23:25 - Department is null or empty for user cf40a883-75ad-4d98-81a3-56551d34ad03
+2025-01-31 12:23:27 - User 353ecb0e-c1ae-48f8-8a74-293ca227c738 needs to be added to group 8904d45f-bff8-46e0-ad5f-79b79cfdaf5a
+2025-01-31 12:23:28 - GroupId 8904d45f-bff8-46e0-ad5f-79b79cfdaf5a matches an entry in the MatchingData array. No action needed.
+2025-01-31 12:23:29 - User 7a5c7803-987d-4ad3-9b37-e4dff2b69c7f needs to be added to group 8904d45f-bff8-46e0-ad5f-79b79cfdaf5a
+2025-01-31 12:23:30 - GroupId 8904d45f-bff8-46e0-ad5f-79b79cfdaf5a matches an entry in the MatchingData array. No action needed.
+2025-01-31 12:23:31 - User 6361a132-6116-4c17-bc1b-8aa42e96e896 needs to be added to group 8904d45f-bff8-46e0-ad5f-79b79cfdaf5a
+2025-01-31 12:23:31 - GroupId 8904d45f-bff8-46e0-ad5f-79b79cfdaf5a matches an entry in the MatchingData array. No action needed.
+2025-01-31 12:23:32 - User 9439b7eb-b70d-4962-aa31-fb8e48474867 needs to be added to group 8904d45f-bff8-46e0-ad5f-79b79cfdaf5a
+2025-01-31 12:23:33 - GroupId 8904d45f-bff8-46e0-ad5f-79b79cfdaf5a matches an entry in the MatchingData array. No action needed.
+2025-01-31 12:23:34 - User dfad45a8-c402-41ff-b040-38249dc90902 needs to be added to group 77097e09-0624-4882-8513-b902360434b5
+2025-01-31 12:23:35 - GroupId 77097e09-0624-4882-8513-b902360434b5 matches an entry in the MatchingData array. No action needed.
+2025-01-31 12:23:35 - GroupId 77097e09-0624-4882-8513-b902360434b5 matches an entry in the MatchingData array. No action needed.
+2025-01-31 12:23:36 - User d2cd7c8a-3973-4eba-9e0b-9d99a33dbbab needs to be added to group 8904d45f-bff8-46e0-ad5f-79b79cfdaf5a
+2025-01-31 12:23:36 - GroupId 8904d45f-bff8-46e0-ad5f-79b79cfdaf5a matches an entry in the MatchingData array. No action needed.
+2025-01-31 12:23:38 - User 2f85ac5a-8870-41e5-9e4c-48c280c769d9 needs to be added to group e73c82cd-a510-4c67-a54e-b306d77eb760
+2025-01-31 12:23:39 - GroupId e73c82cd-a510-4c67-a54e-b306d77eb760 matches an entry in the MatchingData array. No action needed.
+2025-01-31 12:23:39 - Department is null or empty for user 85ed0166-fb2c-4d73-8db9-ec127e37253d
+2025-01-31 12:23:41 - User a3149c6b-07fc-49c7-8d9c-82cdc2017f42 needs to be added to group e73c82cd-a510-4c67-a54e-b306d77eb760
+2025-01-31 12:23:42 - GroupId e73c82cd-a510-4c67-a54e-b306d77eb760 matches an entry in the MatchingData array. No action needed.
+2025-01-31 12:23:42 - Department is null or empty for user c8732f08-feaa-4dfb-9ef4-e9ffd7f66465
+2025-01-31 12:23:44 - Department is null or empty for user 4367913d-ffff-460f-9798-fe547f522d92
+2025-01-31 12:23:45 - User 70278c48-ed38-4ae3-a0f9-ac2f6f4c96d1 needs to be added to group 77097e09-0624-4882-8513-b902360434b5
+2025-01-31 12:23:46 - GroupId 77097e09-0624-4882-8513-b902360434b5 matches an entry in the MatchingData array. No action needed.
+2025-01-31 12:23:46 - GroupId 77097e09-0624-4882-8513-b902360434b5 matches an entry in the MatchingData array. No action needed.
+2025-01-31 12:23:47 - User 5aeedea1-d287-434a-a32f-7299db677d2a needs to be added to group cbcc75aa-e9d6-49d6-9792-93cfc04dd4ee
+2025-01-31 12:23:48 - GroupId cbcc75aa-e9d6-49d6-9792-93cfc04dd4ee matches an entry in the MatchingData array. No action needed.
+2025-01-31 12:23:48 - User 782d1332-8350-4013-831f-725e116cb5d0 needs to be added to group e73c82cd-a510-4c67-a54e-b306d77eb760
+2025-01-31 12:23:50 - GroupId e73c82cd-a510-4c67-a54e-b306d77eb760 matches an entry in the MatchingData array. No action needed.
+2025-01-31 12:23:50 - Script execution completed. Waiting for the next run.
+2025-01-31 12:24:51 - Excel is updated now update Azure AD
+2025-01-31 12:24:51 - User department updated successfully.
+2025-01-31 12:24:51 - User department updated successfully.
+2025-01-31 12:24:52 - User department updated successfully.
+2025-01-31 12:24:52 - User department updated successfully.
+2025-01-31 12:24:52 - User department updated successfully.
+2025-01-31 12:24:52 - User department updated successfully.
+2025-01-31 12:24:52 - User department updated successfully.
+2025-01-31 12:24:53 - User department updated successfully.
+2025-01-31 12:24:53 - User department updated successfully.
+2025-01-31 12:24:53 - User department updated successfully.
+2025-01-31 12:24:53 - User department updated successfully.
+2025-01-31 12:24:53 - User department updated successfully.
+2025-01-31 12:24:54 - User department updated successfully.
+2025-01-31 12:24:54 - User department updated successfully.
+2025-01-31 12:24:54 - User department updated successfully.
+2025-01-31 12:24:54 - User department updated successfully.
+2025-01-31 12:24:54 - User department updated successfully.
+2025-01-31 12:24:54 - User department updated successfully.
+2025-01-31 12:24:55 - User department updated successfully.
+2025-01-31 12:24:55 - User department updated successfully.
+2025-01-31 12:24:55 - User department updated successfully.
+2025-01-31 12:24:55 - User department updated successfully.
+2025-01-31 12:24:55 - User department updated successfully.
+2025-01-31 12:24:56 - User department updated successfully.
+2025-01-31 12:24:56 - User department updated successfully.
+2025-01-31 12:24:56 - User department updated successfully.
+2025-01-31 12:24:56 - User department updated successfully.
+2025-01-31 12:24:56 - User department updated successfully.
+2025-01-31 12:24:57 - User department updated successfully.
+2025-01-31 12:24:57 - User department updated successfully.
+2025-01-31 12:24:57 - User department updated successfully.
+2025-01-31 12:24:57 - User department updated successfully.
+2025-01-31 12:24:57 - User department updated successfully.
+2025-01-31 12:24:58 - User department updated successfully.
+2025-01-31 12:24:58 - User department updated successfully.
+2025-01-31 12:24:58 - User department updated successfully.
+2025-01-31 12:24:58 - User department updated successfully.
+2025-01-31 12:24:58 - User department updated successfully.
+2025-01-31 12:24:58 - Processing DL
+2025-01-31 12:24:59 - Group details successfully stored in variable 'GroupsData'
+2025-01-31 12:24:59 - Group details successfully stored in variable 'GroupsData'
+2025-01-31 12:24:59 - Group details successfully stored in variable 'GroupsData'
+2025-01-31 12:24:59 - Group details successfully stored in variable 'GroupsData'
+2025-01-31 12:25:00 - Group details successfully stored in variable 'GroupsData'
+2025-01-31 12:25:00 - Group details successfully stored in variable 'GroupsData'
+2025-01-31 12:25:00 - Group details successfully stored in variable 'GroupsData'
+2025-01-31 12:25:00 - Group details successfully stored in variable 'GroupsData'
+2025-01-31 12:25:00 -       
+2025-01-31 12:25:00 - User c15cad28-711a-4988-b227-76a915fcb7df needs to be added to group 1c20e136-1442-4464-9aa5-df041646da7c
+2025-01-31 12:25:01 - GroupId 1c20e136-1442-4464-9aa5-df041646da7c matches an entry in the MatchingData array. No action needed.
+2025-01-31 12:25:02 - GroupId 1c20e136-1442-4464-9aa5-df041646da7c matches an entry in the MatchingData array. No action needed.
+2025-01-31 12:25:02 - User 2ec5bf74-c1f1-439d-b747-76f9a3f4492c needs to be added to group 77097e09-0624-4882-8513-b902360434b5
+2025-01-31 12:25:03 - GroupId 77097e09-0624-4882-8513-b902360434b5 matches an entry in the MatchingData array. No action needed.
+2025-01-31 12:25:03 - User baaf4910-2758-4d6e-b799-3b39a980a39d needs to be added to group e73c82cd-a510-4c67-a54e-b306d77eb760
+2025-01-31 12:25:05 - GroupId e73c82cd-a510-4c67-a54e-b306d77eb760 matches an entry in the MatchingData array. No action needed.
+2025-01-31 12:25:05 - User f71338a0-5d86-45b8-b679-8acbc2165028 needs to be added to group e73c82cd-a510-4c67-a54e-b306d77eb760
+2025-01-31 12:25:06 - GroupId e73c82cd-a510-4c67-a54e-b306d77eb760 matches an entry in the MatchingData array. No action needed.
+2025-01-31 12:25:07 - User c5bb2422-528c-4011-94e3-7e477ea1a4d8 needs to be added to group 77b2982f-07fd-4c46-a9eb-88e90866169c
+2025-01-31 12:25:07 - GroupId 77b2982f-07fd-4c46-a9eb-88e90866169c matches an entry in the MatchingData array. No action needed.
+2025-01-31 12:25:08 - Department is null or empty for user 7b501d2b-bd16-4256-9f72-3e3f36f945dd
+2025-01-31 12:25:10 - User 615345d0-4287-42cb-9fd1-6dead32082ac needs to be added to group 77097e09-0624-4882-8513-b902360434b5
+2025-01-31 12:25:11 - GroupId 77097e09-0624-4882-8513-b902360434b5 matches an entry in the MatchingData array. No action needed.
+2025-01-31 12:25:11 - User d7695ae5-95d5-4e2b-afc7-eb0fc631501c needs to be added to group cbcc75aa-e9d6-49d6-9792-93cfc04dd4ee
+2025-01-31 12:25:12 - GroupId cbcc75aa-e9d6-49d6-9792-93cfc04dd4ee matches an entry in the MatchingData array. No action needed.
+2025-01-31 12:25:13 - User 7be2268c-52c4-4da6-bf88-08468b5aa333 needs to be added to group cbcc75aa-e9d6-49d6-9792-93cfc04dd4ee
+2025-01-31 12:25:14 - GroupId cbcc75aa-e9d6-49d6-9792-93cfc04dd4ee matches an entry in the MatchingData array. No action needed.
+2025-01-31 12:25:15 - User bdfb42a2-418d-4ba5-b1f9-6d61d5d84411 needs to be added to group 8904d45f-bff8-46e0-ad5f-79b79cfdaf5a
+2025-01-31 12:25:15 - GroupId 8904d45f-bff8-46e0-ad5f-79b79cfdaf5a matches an entry in the MatchingData array. No action needed.
+2025-01-31 12:25:16 - User a18bc7a5-b3da-4b5e-81f5-1223e1bed7cb needs to be added to group 8904d45f-bff8-46e0-ad5f-79b79cfdaf5a
+2025-01-31 12:25:17 - GroupId 8904d45f-bff8-46e0-ad5f-79b79cfdaf5a matches an entry in the MatchingData array. No action needed.
+2025-01-31 12:25:18 - User 23195fd5-409a-48e3-a158-d4112a0a16d0 needs to be added to group e73c82cd-a510-4c67-a54e-b306d77eb760
+2025-01-31 12:25:19 - GroupId e73c82cd-a510-4c67-a54e-b306d77eb760 matches an entry in the MatchingData array. No action needed.
+2025-01-31 12:25:19 - User 0ea9e8e4-154c-476e-b442-09736eb6a479 needs to be added to group e73c82cd-a510-4c67-a54e-b306d77eb760
+2025-01-31 12:25:21 - GroupId e73c82cd-a510-4c67-a54e-b306d77eb760 matches an entry in the MatchingData array. No action needed.
+2025-01-31 12:25:21 - User 3e20f859-5e76-491e-9318-eb9100408295 needs to be added to group 77b2982f-07fd-4c46-a9eb-88e90866169c
+2025-01-31 12:25:22 - GroupId 77b2982f-07fd-4c46-a9eb-88e90866169c matches an entry in the MatchingData array. No action needed.
+2025-01-31 12:25:23 - User c9d7981c-27b6-4270-8fc2-181c32caf853 needs to be added to group 8904d45f-bff8-46e0-ad5f-79b79cfdaf5a
+2025-01-31 12:25:23 - GroupId 8904d45f-bff8-46e0-ad5f-79b79cfdaf5a matches an entry in the MatchingData array. No action needed.
+2025-01-31 12:25:24 - Department is null or empty for user fbfed52b-e2cf-4125-a910-1cef23366dc9
+2025-01-31 12:25:26 - Department is null or empty for user da4ab631-c7d2-44f1-b008-4748da94ee58
+2025-01-31 12:25:27 - Department is null or empty for user e1a1335c-b29e-4f39-9f56-6f431f6909cf
+2025-01-31 12:25:28 - Department is null or empty for user 44db08ff-6bc0-48f6-bd7c-311469af9da0
+2025-01-31 12:25:30 - User 2cf78781-64ad-48f1-9941-60f94bda3570 needs to be added to group 77b2982f-07fd-4c46-a9eb-88e90866169c
+2025-01-31 12:25:31 - GroupId 77b2982f-07fd-4c46-a9eb-88e90866169c matches an entry in the MatchingData array. No action needed.
+2025-01-31 12:25:31 - User eccad7fc-c960-4a2b-aa6f-7c637844c8d7 needs to be added to group 8904d45f-bff8-46e0-ad5f-79b79cfdaf5a
+2025-01-31 12:25:32 - GroupId 8904d45f-bff8-46e0-ad5f-79b79cfdaf5a matches an entry in the MatchingData array. No action needed.
+2025-01-31 12:25:33 - Department is null or empty for user cf40a883-75ad-4d98-81a3-56551d34ad03
+2025-01-31 12:25:35 - User 353ecb0e-c1ae-48f8-8a74-293ca227c738 needs to be added to group 8904d45f-bff8-46e0-ad5f-79b79cfdaf5a
+2025-01-31 12:25:35 - GroupId 8904d45f-bff8-46e0-ad5f-79b79cfdaf5a matches an entry in the MatchingData array. No action needed.
+2025-01-31 12:25:36 - User 7a5c7803-987d-4ad3-9b37-e4dff2b69c7f needs to be added to group 8904d45f-bff8-46e0-ad5f-79b79cfdaf5a
+2025-01-31 12:25:37 - GroupId 8904d45f-bff8-46e0-ad5f-79b79cfdaf5a matches an entry in the MatchingData array. No action needed.
+2025-01-31 12:25:38 - User 6361a132-6116-4c17-bc1b-8aa42e96e896 needs to be added to group 8904d45f-bff8-46e0-ad5f-79b79cfdaf5a
+2025-01-31 12:25:39 - GroupId 8904d45f-bff8-46e0-ad5f-79b79cfdaf5a matches an entry in the MatchingData array. No action needed.
+2025-01-31 12:25:40 - User 9439b7eb-b70d-4962-aa31-fb8e48474867 needs to be added to group 8904d45f-bff8-46e0-ad5f-79b79cfdaf5a
+2025-01-31 12:25:41 - GroupId 8904d45f-bff8-46e0-ad5f-79b79cfdaf5a matches an entry in the MatchingData array. No action needed.
+2025-01-31 12:25:42 - User dfad45a8-c402-41ff-b040-38249dc90902 needs to be added to group 77097e09-0624-4882-8513-b902360434b5
+2025-01-31 12:25:43 - GroupId 77097e09-0624-4882-8513-b902360434b5 matches an entry in the MatchingData array. No action needed.
+2025-01-31 12:25:43 - User d2cd7c8a-3973-4eba-9e0b-9d99a33dbbab needs to be added to group 8904d45f-bff8-46e0-ad5f-79b79cfdaf5a
+2025-01-31 12:25:44 - GroupId 8904d45f-bff8-46e0-ad5f-79b79cfdaf5a matches an entry in the MatchingData array. No action needed.
+2025-01-31 12:25:45 - User 2f85ac5a-8870-41e5-9e4c-48c280c769d9 needs to be added to group e73c82cd-a510-4c67-a54e-b306d77eb760
+2025-01-31 12:25:46 - GroupId e73c82cd-a510-4c67-a54e-b306d77eb760 matches an entry in the MatchingData array. No action needed.
+2025-01-31 12:25:47 - Department is null or empty for user 85ed0166-fb2c-4d73-8db9-ec127e37253d
+2025-01-31 12:25:48 - User a3149c6b-07fc-49c7-8d9c-82cdc2017f42 needs to be added to group e73c82cd-a510-4c67-a54e-b306d77eb760
+2025-01-31 12:25:49 - GroupId e73c82cd-a510-4c67-a54e-b306d77eb760 matches an entry in the MatchingData array. No action needed.
+2025-01-31 12:25:50 - Department is null or empty for user c8732f08-feaa-4dfb-9ef4-e9ffd7f66465
+2025-01-31 12:25:51 - Department is null or empty for user 4367913d-ffff-460f-9798-fe547f522d92
+2025-01-31 12:25:53 - User 70278c48-ed38-4ae3-a0f9-ac2f6f4c96d1 needs to be added to group 77097e09-0624-4882-8513-b902360434b5
+2025-01-31 12:25:54 - GroupId 77097e09-0624-4882-8513-b902360434b5 matches an entry in the MatchingData array. No action needed.
+2025-01-31 12:25:55 - User 5aeedea1-d287-434a-a32f-7299db677d2a needs to be added to group cbcc75aa-e9d6-49d6-9792-93cfc04dd4ee
+2025-01-31 12:25:56 - GroupId cbcc75aa-e9d6-49d6-9792-93cfc04dd4ee matches an entry in the MatchingData array. No action needed.
+2025-01-31 12:25:57 - User 782d1332-8350-4013-831f-725e116cb5d0 needs to be added to group e73c82cd-a510-4c67-a54e-b306d77eb760
+2025-01-31 12:25:58 - GroupId e73c82cd-a510-4c67-a54e-b306d77eb760 matches an entry in the MatchingData array. No action needed.
+2025-01-31 12:25:58 - Script execution completed. Waiting for the next run.
+2025-01-31 12:26:59 - Excel is updated now update Azure AD
+2025-01-31 12:26:59 - User department updated successfully.
+2025-01-31 12:27:00 - User department updated successfully.
+2025-01-31 12:27:00 - User department updated successfully.
+2025-01-31 12:27:00 - User department updated successfully.
+2025-01-31 12:27:00 - User department updated successfully.
+2025-01-31 12:27:01 - User department updated successfully.
+2025-01-31 12:27:01 - User department updated successfully.
+2025-01-31 12:27:01 - User department updated successfully.
+2025-01-31 12:27:01 - User department updated successfully.
+2025-01-31 12:27:01 - User department updated successfully.
+2025-01-31 12:27:02 - User department updated successfully.
+2025-01-31 12:27:02 - User department updated successfully.
+2025-01-31 12:27:02 - User department updated successfully.
+2025-01-31 12:27:02 - User department updated successfully.
+2025-01-31 12:27:02 - User department updated successfully.
+2025-01-31 12:27:03 - User department updated successfully.
+2025-01-31 12:27:03 - User restored successfully! User ID: b8b3a10e-d987-458d-bff9-e22aa11b012c
+2025-01-31 12:27:03 - User department updated successfully.
+2025-01-31 12:27:03 - User department updated successfully.
+2025-01-31 12:27:04 - User department updated successfully.
+2025-01-31 12:27:04 - User department updated successfully.
+2025-01-31 12:27:04 - User department updated successfully.
+2025-01-31 12:27:04 - User department updated successfully.
+2025-01-31 12:27:04 - User department updated successfully.
+2025-01-31 12:27:04 - User department updated successfully.
+2025-01-31 12:27:05 - User department updated successfully.
+2025-01-31 12:27:05 - User department updated successfully.
+2025-01-31 12:27:05 - User department updated successfully.
+2025-01-31 12:27:05 - User department updated successfully.
+2025-01-31 12:27:06 - User department updated successfully.
+2025-01-31 12:27:06 - User department updated successfully.
+2025-01-31 12:27:06 - User department updated successfully.
+2025-01-31 12:27:06 - User department updated successfully.
+2025-01-31 12:27:06 - User department updated successfully.
+2025-01-31 12:27:06 - User department updated successfully.
+2025-01-31 12:27:07 - User department updated successfully.
+2025-01-31 12:27:07 - User department updated successfully.
+2025-01-31 12:27:07 - User department updated successfully.
+2025-01-31 12:27:07 - User department updated successfully.
+2025-01-31 12:27:07 - User department updated successfully.
+2025-01-31 12:27:07 - Processing DL
+2025-01-31 12:27:08 - Group details successfully stored in variable 'GroupsData'
+2025-01-31 12:27:08 - Group details successfully stored in variable 'GroupsData'
+2025-01-31 12:27:08 - Group details successfully stored in variable 'GroupsData'
+2025-01-31 12:27:09 - Group details successfully stored in variable 'GroupsData'
+2025-01-31 12:27:09 - Group details successfully stored in variable 'GroupsData'
+2025-01-31 12:27:09 - Group details successfully stored in variable 'GroupsData'
+2025-01-31 12:27:09 - Group details successfully stored in variable 'GroupsData'
+2025-01-31 12:27:09 -      
+2025-01-31 12:27:09 - User c15cad28-711a-4988-b227-76a915fcb7df needs to be added to group 1c20e136-1442-4464-9aa5-df041646da7c
+2025-01-31 12:27:11 - GroupId 1c20e136-1442-4464-9aa5-df041646da7c matches an entry in the MatchingData array. No action needed.
+2025-01-31 12:27:11 - User 2ec5bf74-c1f1-439d-b747-76f9a3f4492c needs to be added to group 77097e09-0624-4882-8513-b902360434b5
+2025-01-31 12:27:12 - GroupId 77097e09-0624-4882-8513-b902360434b5 matches an entry in the MatchingData array. No action needed.
+2025-01-31 12:27:12 - User baaf4910-2758-4d6e-b799-3b39a980a39d needs to be added to group e73c82cd-a510-4c67-a54e-b306d77eb760
+2025-01-31 12:27:13 - GroupId e73c82cd-a510-4c67-a54e-b306d77eb760 matches an entry in the MatchingData array. No action needed.
+2025-01-31 12:27:14 - User f71338a0-5d86-45b8-b679-8acbc2165028 needs to be added to group e73c82cd-a510-4c67-a54e-b306d77eb760
+2025-01-31 12:27:15 - GroupId e73c82cd-a510-4c67-a54e-b306d77eb760 matches an entry in the MatchingData array. No action needed.
+2025-01-31 12:27:15 - User c5bb2422-528c-4011-94e3-7e477ea1a4d8 needs to be added to group 77b2982f-07fd-4c46-a9eb-88e90866169c
+2025-01-31 12:27:16 - GroupId 77b2982f-07fd-4c46-a9eb-88e90866169c matches an entry in the MatchingData array. No action needed.
+2025-01-31 12:27:17 - Department is null or empty for user 7b501d2b-bd16-4256-9f72-3e3f36f945dd
+2025-01-31 12:27:18 - User 615345d0-4287-42cb-9fd1-6dead32082ac needs to be added to group 77097e09-0624-4882-8513-b902360434b5
+2025-01-31 12:27:20 - GroupId 77097e09-0624-4882-8513-b902360434b5 matches an entry in the MatchingData array. No action needed.
+2025-01-31 12:27:20 - User d7695ae5-95d5-4e2b-afc7-eb0fc631501c needs to be added to group cbcc75aa-e9d6-49d6-9792-93cfc04dd4ee
+2025-01-31 12:27:21 - GroupId cbcc75aa-e9d6-49d6-9792-93cfc04dd4ee matches an entry in the MatchingData array. No action needed.
+2025-01-31 12:27:22 - User 7be2268c-52c4-4da6-bf88-08468b5aa333 needs to be added to group cbcc75aa-e9d6-49d6-9792-93cfc04dd4ee
+2025-01-31 12:27:23 - GroupId cbcc75aa-e9d6-49d6-9792-93cfc04dd4ee matches an entry in the MatchingData array. No action needed.
+2025-01-31 12:27:23 - User bdfb42a2-418d-4ba5-b1f9-6d61d5d84411 needs to be added to group 8904d45f-bff8-46e0-ad5f-79b79cfdaf5a
+2025-01-31 12:27:24 - GroupId 8904d45f-bff8-46e0-ad5f-79b79cfdaf5a matches an entry in the MatchingData array. No action needed.
+2025-01-31 12:27:25 - User a18bc7a5-b3da-4b5e-81f5-1223e1bed7cb needs to be added to group 8904d45f-bff8-46e0-ad5f-79b79cfdaf5a
+2025-01-31 12:27:25 - GroupId 8904d45f-bff8-46e0-ad5f-79b79cfdaf5a matches an entry in the MatchingData array. No action needed.
+2025-01-31 12:27:26 - User 23195fd5-409a-48e3-a158-d4112a0a16d0 needs to be added to group e73c82cd-a510-4c67-a54e-b306d77eb760
+2025-01-31 12:27:27 - GroupId e73c82cd-a510-4c67-a54e-b306d77eb760 matches an entry in the MatchingData array. No action needed.
+2025-01-31 12:27:28 - User 0ea9e8e4-154c-476e-b442-09736eb6a479 needs to be added to group e73c82cd-a510-4c67-a54e-b306d77eb760
+2025-01-31 12:27:29 - GroupId e73c82cd-a510-4c67-a54e-b306d77eb760 matches an entry in the MatchingData array. No action needed.
+2025-01-31 12:27:29 - User 3e20f859-5e76-491e-9318-eb9100408295 needs to be added to group 77b2982f-07fd-4c46-a9eb-88e90866169c
+2025-01-31 12:27:30 - GroupId 77b2982f-07fd-4c46-a9eb-88e90866169c matches an entry in the MatchingData array. No action needed.
+2025-01-31 12:27:31 - User c9d7981c-27b6-4270-8fc2-181c32caf853 needs to be added to group 8904d45f-bff8-46e0-ad5f-79b79cfdaf5a
+2025-01-31 12:27:31 - GroupId 8904d45f-bff8-46e0-ad5f-79b79cfdaf5a matches an entry in the MatchingData array. No action needed.
+2025-01-31 12:27:32 - Department is null or empty for user fbfed52b-e2cf-4125-a910-1cef23366dc9
+2025-01-31 12:27:33 - User b8b3a10e-d987-458d-bff9-e22aa11b012c needs to be added to group e73c82cd-a510-4c67-a54e-b306d77eb760
+2025-01-31 12:27:34 - User with ID b8b3a10e-d987-458d-bff9-e22aa11b012c added to Group with ID e73c82cd-a510-4c67-a54e-b306d77eb760 successfully.
+2025-01-31 12:27:34 - GroupId e73c82cd-a510-4c67-a54e-b306d77eb760 matches an entry in the MatchingData array. No action needed.
+2025-01-31 12:27:35 - Department is null or empty for user da4ab631-c7d2-44f1-b008-4748da94ee58
+2025-01-31 12:27:36 - Department is null or empty for user e1a1335c-b29e-4f39-9f56-6f431f6909cf
+2025-01-31 12:27:37 - Department is null or empty for user 44db08ff-6bc0-48f6-bd7c-311469af9da0
+2025-01-31 12:27:38 - User 2cf78781-64ad-48f1-9941-60f94bda3570 needs to be added to group 77b2982f-07fd-4c46-a9eb-88e90866169c
+2025-01-31 12:27:39 - GroupId 77b2982f-07fd-4c46-a9eb-88e90866169c matches an entry in the MatchingData array. No action needed.
+2025-01-31 12:27:40 - User eccad7fc-c960-4a2b-aa6f-7c637844c8d7 needs to be added to group 8904d45f-bff8-46e0-ad5f-79b79cfdaf5a
+2025-01-31 12:27:40 - GroupId 8904d45f-bff8-46e0-ad5f-79b79cfdaf5a matches an entry in the MatchingData array. No action needed.
+2025-01-31 12:27:41 - Department is null or empty for user cf40a883-75ad-4d98-81a3-56551d34ad03
+2025-01-31 12:27:42 - User 353ecb0e-c1ae-48f8-8a74-293ca227c738 needs to be added to group 8904d45f-bff8-46e0-ad5f-79b79cfdaf5a
+2025-01-31 12:27:43 - GroupId 8904d45f-bff8-46e0-ad5f-79b79cfdaf5a matches an entry in the MatchingData array. No action needed.
+2025-01-31 12:27:44 - User 7a5c7803-987d-4ad3-9b37-e4dff2b69c7f needs to be added to group 8904d45f-bff8-46e0-ad5f-79b79cfdaf5a
+2025-01-31 12:27:44 - GroupId 8904d45f-bff8-46e0-ad5f-79b79cfdaf5a matches an entry in the MatchingData array. No action needed.
+2025-01-31 12:27:45 - User 6361a132-6116-4c17-bc1b-8aa42e96e896 needs to be added to group 8904d45f-bff8-46e0-ad5f-79b79cfdaf5a
+2025-01-31 12:27:45 - GroupId 8904d45f-bff8-46e0-ad5f-79b79cfdaf5a matches an entry in the MatchingData array. No action needed.
+2025-01-31 12:27:46 - User 9439b7eb-b70d-4962-aa31-fb8e48474867 needs to be added to group 8904d45f-bff8-46e0-ad5f-79b79cfdaf5a
+2025-01-31 12:27:47 - GroupId 8904d45f-bff8-46e0-ad5f-79b79cfdaf5a matches an entry in the MatchingData array. No action needed.
+2025-01-31 12:27:48 - User dfad45a8-c402-41ff-b040-38249dc90902 needs to be added to group 77097e09-0624-4882-8513-b902360434b5
+2025-01-31 12:27:49 - GroupId 77097e09-0624-4882-8513-b902360434b5 matches an entry in the MatchingData array. No action needed.
+2025-01-31 12:27:49 - User d2cd7c8a-3973-4eba-9e0b-9d99a33dbbab needs to be added to group 8904d45f-bff8-46e0-ad5f-79b79cfdaf5a
+2025-01-31 12:27:50 - GroupId 8904d45f-bff8-46e0-ad5f-79b79cfdaf5a matches an entry in the MatchingData array. No action needed.
+2025-01-31 12:27:51 - User 2f85ac5a-8870-41e5-9e4c-48c280c769d9 needs to be added to group e73c82cd-a510-4c67-a54e-b306d77eb760
+2025-01-31 12:27:52 - GroupId e73c82cd-a510-4c67-a54e-b306d77eb760 matches an entry in the MatchingData array. No action needed.
+2025-01-31 12:27:52 - Department is null or empty for user 85ed0166-fb2c-4d73-8db9-ec127e37253d
+2025-01-31 12:27:53 - User a3149c6b-07fc-49c7-8d9c-82cdc2017f42 needs to be added to group e73c82cd-a510-4c67-a54e-b306d77eb760
+2025-01-31 12:27:55 - GroupId e73c82cd-a510-4c67-a54e-b306d77eb760 matches an entry in the MatchingData array. No action needed.
+2025-01-31 12:27:55 - Department is null or empty for user c8732f08-feaa-4dfb-9ef4-e9ffd7f66465
+2025-01-31 12:27:56 - Department is null or empty for user 4367913d-ffff-460f-9798-fe547f522d92
+2025-01-31 12:27:57 - User 70278c48-ed38-4ae3-a0f9-ac2f6f4c96d1 needs to be added to group 77097e09-0624-4882-8513-b902360434b5
+2025-01-31 12:27:58 - GroupId 77097e09-0624-4882-8513-b902360434b5 matches an entry in the MatchingData array. No action needed.
+2025-01-31 12:27:59 - User 5aeedea1-d287-434a-a32f-7299db677d2a needs to be added to group cbcc75aa-e9d6-49d6-9792-93cfc04dd4ee
+2025-01-31 12:28:00 - GroupId cbcc75aa-e9d6-49d6-9792-93cfc04dd4ee matches an entry in the MatchingData array. No action needed.
+2025-01-31 12:28:00 - User 782d1332-8350-4013-831f-725e116cb5d0 needs to be added to group e73c82cd-a510-4c67-a54e-b306d77eb760
+2025-01-31 12:28:02 - GroupId e73c82cd-a510-4c67-a54e-b306d77eb760 matches an entry in the MatchingData array. No action needed.
+2025-01-31 12:28:02 - Script execution completed. Waiting for the next run.
+2025-01-31 12:29:21 - User department updated successfully.
+2025-01-31 12:30:46 - Test log entry for default file
+2025-01-31 12:34:20 - Test log entry for default file
+2025-01-31 14:56:08 - Test log entry for default file
+2025-02-03 15:03:51 - Test log entry for default file
+2025-02-03 15:04:12 - Test log entry for default file
+2025-02-03 15:04:38 - Test log entry for default file
+2025-02-03 15:04:50 - Test log entry for default file
+2025-02-03 15:05:02 - Test log entry for default file
+2025-02-03 15:11:48 - Test log entry for default file
+2025-02-04 11:44:18 - Script execution completed. Waiting for the next run.
+2025-02-04 11:45:13 - Script execution completed. Waiting for the next run.
+2025-02-04 11:45:31 - Script execution completed. Waiting for the next run.
+2025-02-04 11:46:00 - Script execution completed. Waiting for the next run.
+2025-02-04 11:47:00 - Script execution completed. Waiting for the next run.
+2025-02-04 11:47:59 - Script execution completed. Waiting for the next run.
+2025-02-04 11:48:17 - Azure AD is updated last.
+2025-02-04 11:48:18 - User details have been updated in the Excel file: C:\Users\rahulsachin1\Desktop\Hospice Final Presentation\UserData.xlsx
+2025-02-04 11:48:18 - Processing DL
+2025-02-04 11:48:18 - Group details successfully stored in variable 'GroupsData'
+2025-02-04 11:48:19 - Group details successfully stored in variable 'GroupsData'
+2025-02-04 11:48:19 - Group details successfully stored in variable 'GroupsData'
+2025-02-04 11:48:19 - Group details successfully stored in variable 'GroupsData'
+2025-02-04 11:48:19 - Group details successfully stored in variable 'GroupsData'
+2025-02-04 11:48:20 - Group details successfully stored in variable 'GroupsData'
+2025-02-04 11:48:20 - Group details successfully stored in variable 'GroupsData'
+2025-02-04 11:48:20 -      
+2025-02-04 11:48:20 - Department is null or empty for user c15cad28-711a-4988-b227-76a915fcb7df
+2025-02-04 11:48:21 - User 2ec5bf74-c1f1-439d-b747-76f9a3f4492c needs to be added to group 77097e09-0624-4882-8513-b902360434b5
+2025-02-04 13:10:10 - Script execution completed. Waiting for the next run.
+2025-02-04 13:11:10 - Script execution completed. Waiting for the next run.
+2025-02-04 13:12:10 - Script execution completed. Waiting for the next run.
+2025-02-04 13:12:30 - Script execution completed. Waiting for the next run.
+2025-02-04 13:12:34 - Script execution completed. Waiting for the next run.
+2025-02-04 13:13:12 - Excel is updated now update Azure AD
+2025-02-04 13:13:12 - User department updated successfully.
+2025-02-04 13:13:13 - User department updated successfully.
+2025-02-04 13:13:13 - User department updated successfully.
+2025-02-04 13:13:13 - User department updated successfully.
+2025-02-04 13:13:13 - User department updated successfully.
+2025-02-04 13:13:21 - Script execution completed. Waiting for the next run.
+2025-02-04 13:13:54 - Script execution completed. Waiting for the next run.
+2025-02-04 13:14:32 - Script execution completed. Waiting for the next run.
+2025-02-06 15:55:55 - Excel is updated now update Azure AD
+2025-02-06 15:55:56 - User department updated successfully.
+2025-02-06 15:55:56 - User department updated successfully.
+2025-02-06 15:55:56 - User department updated successfully.
+2025-02-06 15:55:56 - User department updated successfully.
+2025-02-06 15:55:57 - User department updated successfully.
+2025-02-06 15:55:57 - User department updated successfully.
+2025-02-06 15:55:57 - User department updated successfully.
+2025-02-06 15:55:57 - User department updated successfully.
+2025-02-06 15:55:57 - User department updated successfully.
+2025-02-06 15:55:58 - User department updated successfully.
+2025-02-06 15:55:58 - User department updated successfully.
+2025-02-06 15:55:58 - User department updated successfully.
+2025-02-06 15:55:58 - User department updated successfully.
+2025-02-06 15:55:58 - User department updated successfully.
+2025-02-06 15:55:59 - User department updated successfully.
+2025-02-06 15:55:59 - User department updated successfully.
+2025-02-06 15:55:59 - User department updated successfully.
+2025-02-06 15:55:59 - User department updated successfully.
+2025-02-06 15:55:59 - User department updated successfully.
+2025-02-06 15:55:59 - User department updated successfully.
+2025-02-06 15:56:00 - User department updated successfully.
+2025-02-06 15:56:00 - User department updated successfully.
+2025-02-06 15:56:00 - User department updated successfully.
+2025-02-06 15:56:00 - User department updated successfully.
+2025-02-06 15:56:00 - User department updated successfully.
+2025-02-06 15:56:00 - User department updated successfully.
+2025-02-06 15:56:01 - User department updated successfully.
+2025-02-06 15:56:01 - User department updated successfully.
+2025-02-06 15:56:01 - User department updated successfully.
+2025-02-06 15:56:01 - User department updated successfully.
+2025-02-06 15:56:01 - User department updated successfully.
+2025-02-06 15:56:02 - User department updated successfully.
+2025-02-06 15:56:02 - User department updated successfully.
+2025-02-06 15:56:02 - User department updated successfully.
+2025-02-06 15:56:02 - User department updated successfully.
+2025-02-06 15:56:02 - User department updated successfully.
+2025-02-06 15:56:03 - User department updated successfully.
+2025-02-06 15:56:03 - User department updated successfully.
+2025-02-06 15:56:03 - User department updated successfully.
+2025-02-06 15:56:03 - Processing DL
+2025-02-06 15:56:03 - Group details successfully stored in variable 'GroupsData'
+2025-02-06 15:56:03 - Group details successfully stored in variable 'GroupsData'
+2025-02-06 15:56:04 - Group details successfully stored in variable 'GroupsData'
+2025-02-06 15:56:04 - Group details successfully stored in variable 'GroupsData'
+2025-02-06 15:56:04 - Group details successfully stored in variable 'GroupsData'
+2025-02-06 15:56:04 - Group details successfully stored in variable 'GroupsData'
+2025-02-06 15:56:04 - Group details successfully stored in variable 'GroupsData'
+2025-02-06 15:56:04 -      
+2025-02-06 15:56:04 - Department is null or empty for user c15cad28-711a-4988-b227-76a915fcb7df

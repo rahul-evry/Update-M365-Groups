@@ -1,0 +1,1400 @@
+2025-01-29 15:32:52 - An error occurred: Cannot bind argument to parameter 'AccessToken' because it is an empty string.
+2025-01-29 15:33:45 - An error occurred: 
+{
+  "error": {
+    "code": "Request_BadRequest",
+    "message": "Invalid value specified for property \u0027mailNickname\u0027 of resource \u0027Group\u0027.",
+    "details": [
+      {
+        "code": "InvalidLength",
+        "message": "The mailNickname should be between 1 and 64 characters.",
+        "target": "mailNickname"
+      }
+    ],
+    "innerError": {
+      "date": "2025-01-29T10:03:45",
+      "request-id": "4526695c-0593-4622-a5e2-94a74d371064",
+      "client-request-id": "4526695c-0593-4622-a5e2-94a74d371064"
+    }
+  }
+}
+2025-01-29 15:33:50 - An error occurred: 
+{
+  "error": {
+    "code": "Request_BadRequest",
+    "message": "One or more added object references already exist for the following modified properties: \u0027members\u0027.",
+    "innerError": {
+      "date": "2025-01-29T10:03:50",
+      "request-id": "2e7cdaf4-6c1d-4fe9-95d3-1684ce6b5e94",
+      "client-request-id": "2e7cdaf4-6c1d-4fe9-95d3-1684ce6b5e94"
+    }
+  }
+}
+2025-01-29 15:33:51 - An error occurred: 
+{
+  "error": {
+    "code": "Request_BadRequest",
+    "message": "One or more added object references already exist for the following modified properties: \u0027members\u0027.",
+    "innerError": {
+      "date": "2025-01-29T10:03:51",
+      "request-id": "5c79615e-0f03-416a-b3c9-f321d8905b34",
+      "client-request-id": "5c79615e-0f03-416a-b3c9-f321d8905b34"
+    }
+  }
+}
+2025-01-29 15:33:52 - An error occurred: 
+{
+  "error": {
+    "code": "Request_BadRequest",
+    "message": "One or more added object references already exist for the following modified properties: \u0027members\u0027.",
+    "innerError": {
+      "date": "2025-01-29T10:03:52",
+      "request-id": "6b3a3687-5ccc-4748-84d3-4a42539e43a7",
+      "client-request-id": "6b3a3687-5ccc-4748-84d3-4a42539e43a7"
+    }
+  }
+}
+2025-01-29 15:33:54 - An error occurred: 
+{
+  "error": {
+    "code": "Request_BadRequest",
+    "message": "One or more added object references already exist for the following modified properties: \u0027members\u0027.",
+    "innerError": {
+      "date": "2025-01-29T10:03:54",
+      "request-id": "3e9a6d8d-8910-4458-8748-716c269ffa5c",
+      "client-request-id": "3e9a6d8d-8910-4458-8748-716c269ffa5c"
+    }
+  }
+}
+2025-01-29 15:33:57 - An error occurred: 
+{
+  "error": {
+    "code": "Request_BadRequest",
+    "message": "One or more added object references already exist for the following modified properties: \u0027members\u0027.",
+    "innerError": {
+      "date": "2025-01-29T10:03:57",
+      "request-id": "0fbf348e-2a60-4e0b-8aa4-563d896297f2",
+      "client-request-id": "0fbf348e-2a60-4e0b-8aa4-563d896297f2"
+    }
+  }
+}
+2025-01-29 15:33:58 - An error occurred: 
+{
+  "error": {
+    "code": "Request_BadRequest",
+    "message": "One or more added object references already exist for the following modified properties: \u0027members\u0027.",
+    "innerError": {
+      "date": "2025-01-29T10:03:58",
+      "request-id": "09487374-ec4f-446e-81a2-4d2d130023d8",
+      "client-request-id": "09487374-ec4f-446e-81a2-4d2d130023d8"
+    }
+  }
+}
+2025-01-29 15:33:59 - An error occurred: 
+{
+  "error": {
+    "code": "Request_BadRequest",
+    "message": "One or more added object references already exist for the following modified properties: \u0027members\u0027.",
+    "innerError": {
+      "date": "2025-01-29T10:03:59",
+      "request-id": "45eab8af-72ee-4c2c-af17-a408daf641cb",
+      "client-request-id": "45eab8af-72ee-4c2c-af17-a408daf641cb"
+    }
+  }
+}
+2025-01-29 15:34:05 - An error occurred: 
+{
+  "error": {
+    "code": "Request_BadRequest",
+    "message": "One or more added object references already exist for the following modified properties: \u0027members\u0027.",
+    "innerError": {
+      "date": "2025-01-29T10:04:05",
+      "request-id": "9e327a5f-d9f0-4ede-9348-b5764959263b",
+      "client-request-id": "9e327a5f-d9f0-4ede-9348-b5764959263b"
+    }
+  }
+}
+2025-01-29 15:34:06 - An error occurred: 
+{
+  "error": {
+    "code": "Request_BadRequest",
+    "message": "One or more added object references already exist for the following modified properties: \u0027members\u0027.",
+    "innerError": {
+      "date": "2025-01-29T10:04:07",
+      "request-id": "288e6f4e-6bbe-4dd1-a64f-9b8d0d020840",
+      "client-request-id": "288e6f4e-6bbe-4dd1-a64f-9b8d0d020840"
+    }
+  }
+}
+2025-01-29 15:34:08 - An error occurred: 
+{
+  "error": {
+    "code": "Request_BadRequest",
+    "message": "One or more added object references already exist for the following modified properties: \u0027members\u0027.",
+    "innerError": {
+      "date": "2025-01-29T10:04:08",
+      "request-id": "c271d912-3342-440b-9b3d-ef078e7a4efc",
+      "client-request-id": "c271d912-3342-440b-9b3d-ef078e7a4efc"
+    }
+  }
+}
+2025-01-29 15:34:09 - An error occurred: 
+{
+  "error": {
+    "code": "Request_BadRequest",
+    "message": "One or more added object references already exist for the following modified properties: \u0027members\u0027.",
+    "innerError": {
+      "date": "2025-01-29T10:04:09",
+      "request-id": "840d9682-748c-4db5-89eb-3e378f6bcf65",
+      "client-request-id": "840d9682-748c-4db5-89eb-3e378f6bcf65"
+    }
+  }
+}
+2025-01-29 15:34:11 - An error occurred: 
+{
+  "error": {
+    "code": "Request_BadRequest",
+    "message": "One or more added object references already exist for the following modified properties: \u0027members\u0027.",
+    "innerError": {
+      "date": "2025-01-29T10:04:11",
+      "request-id": "25cd1986-592f-4318-a1dc-536cbe39d9bc",
+      "client-request-id": "25cd1986-592f-4318-a1dc-536cbe39d9bc"
+    }
+  }
+}
+2025-01-29 15:34:12 - An error occurred: 
+{
+  "error": {
+    "code": "Request_BadRequest",
+    "message": "One or more added object references already exist for the following modified properties: \u0027members\u0027.",
+    "innerError": {
+      "date": "2025-01-29T10:04:12",
+      "request-id": "7abb8953-dd38-4e14-8dfc-740a1e5a16fd",
+      "client-request-id": "7abb8953-dd38-4e14-8dfc-740a1e5a16fd"
+    }
+  }
+}
+2025-01-29 15:34:13 - An error occurred: 
+{
+  "error": {
+    "code": "Request_BadRequest",
+    "message": "One or more added object references already exist for the following modified properties: \u0027members\u0027.",
+    "innerError": {
+      "date": "2025-01-29T10:04:13",
+      "request-id": "bf87d8fa-fa51-40c2-b67f-4bc32195e75f",
+      "client-request-id": "bf87d8fa-fa51-40c2-b67f-4bc32195e75f"
+    }
+  }
+}
+2025-01-29 15:34:15 - An error occurred: 
+{
+  "error": {
+    "code": "Request_BadRequest",
+    "message": "One or more added object references already exist for the following modified properties: \u0027members\u0027.",
+    "innerError": {
+      "date": "2025-01-29T10:04:15",
+      "request-id": "7511c97e-ddf3-47ff-9d74-ce148e60bc7a",
+      "client-request-id": "7511c97e-ddf3-47ff-9d74-ce148e60bc7a"
+    }
+  }
+}
+2025-01-29 15:34:16 - An error occurred: 
+{
+  "error": {
+    "code": "Request_BadRequest",
+    "message": "One or more added object references already exist for the following modified properties: \u0027members\u0027.",
+    "innerError": {
+      "date": "2025-01-29T10:04:16",
+      "request-id": "cb98a5cb-ba21-40ab-945b-fa526d3f3414",
+      "client-request-id": "cb98a5cb-ba21-40ab-945b-fa526d3f3414"
+    }
+  }
+}
+2025-01-29 15:34:18 - An error occurred: 
+{
+  "error": {
+    "code": "Request_BadRequest",
+    "message": "One or more added object references already exist for the following modified properties: \u0027members\u0027.",
+    "innerError": {
+      "date": "2025-01-29T10:04:18",
+      "request-id": "a1c298d9-54ad-4c79-89e2-2c6bcd40f614",
+      "client-request-id": "a1c298d9-54ad-4c79-89e2-2c6bcd40f614"
+    }
+  }
+}
+2025-01-29 15:34:19 - An error occurred: 
+{
+  "error": {
+    "code": "Request_BadRequest",
+    "message": "One or more added object references already exist for the following modified properties: \u0027members\u0027.",
+    "innerError": {
+      "date": "2025-01-29T10:04:19",
+      "request-id": "c67eb29f-2fda-462d-8416-cf24585565fe",
+      "client-request-id": "c67eb29f-2fda-462d-8416-cf24585565fe"
+    }
+  }
+}
+2025-01-29 15:34:20 - An error occurred: 
+{
+  "error": {
+    "code": "Request_BadRequest",
+    "message": "One or more added object references already exist for the following modified properties: \u0027members\u0027.",
+    "innerError": {
+      "date": "2025-01-29T10:04:20",
+      "request-id": "1e077b5f-0914-4286-892f-d26d3eeda520",
+      "client-request-id": "1e077b5f-0914-4286-892f-d26d3eeda520"
+    }
+  }
+}
+2025-01-29 15:34:22 - An error occurred: 
+{
+  "error": {
+    "code": "Request_BadRequest",
+    "message": "One or more added object references already exist for the following modified properties: \u0027members\u0027.",
+    "innerError": {
+      "date": "2025-01-29T10:04:22",
+      "request-id": "30f626d0-e327-4529-bb00-9ebfd5cb6bfc",
+      "client-request-id": "30f626d0-e327-4529-bb00-9ebfd5cb6bfc"
+    }
+  }
+}
+2025-01-29 15:34:23 - An error occurred: 
+{
+  "error": {
+    "code": "Request_BadRequest",
+    "message": "One or more added object references already exist for the following modified properties: \u0027members\u0027.",
+    "innerError": {
+      "date": "2025-01-29T10:04:23",
+      "request-id": "8b4b3117-4106-44af-b54f-411110bd0c8e",
+      "client-request-id": "8b4b3117-4106-44af-b54f-411110bd0c8e"
+    }
+  }
+}
+2025-01-29 15:34:25 - An error occurred: 
+{
+  "error": {
+    "code": "Request_BadRequest",
+    "message": "One or more added object references already exist for the following modified properties: \u0027members\u0027.",
+    "innerError": {
+      "date": "2025-01-29T10:04:25",
+      "request-id": "ee2d1e5e-f477-408f-bf48-82c005bd770f",
+      "client-request-id": "ee2d1e5e-f477-408f-bf48-82c005bd770f"
+    }
+  }
+}
+2025-01-29 15:34:26 - An error occurred: 
+{
+  "error": {
+    "code": "Request_BadRequest",
+    "message": "One or more added object references already exist for the following modified properties: \u0027members\u0027.",
+    "innerError": {
+      "date": "2025-01-29T10:04:26",
+      "request-id": "56a50359-fac8-42e0-aded-aa9475a81f77",
+      "client-request-id": "56a50359-fac8-42e0-aded-aa9475a81f77"
+    }
+  }
+}
+2025-01-29 15:34:28 - An error occurred: 
+{
+  "error": {
+    "code": "Request_BadRequest",
+    "message": "One or more added object references already exist for the following modified properties: \u0027members\u0027.",
+    "innerError": {
+      "date": "2025-01-29T10:04:28",
+      "request-id": "7b8ca225-d115-4bc3-8f1b-e9a2c4e78e3c",
+      "client-request-id": "7b8ca225-d115-4bc3-8f1b-e9a2c4e78e3c"
+    }
+  }
+}
+2025-01-29 15:34:30 - An error occurred: 
+{
+  "error": {
+    "code": "Request_BadRequest",
+    "message": "One or more added object references already exist for the following modified properties: \u0027members\u0027.",
+    "innerError": {
+      "date": "2025-01-29T10:04:30",
+      "request-id": "c8e5aedd-b8c2-40fa-ba55-fc96eb219ecc",
+      "client-request-id": "c8e5aedd-b8c2-40fa-ba55-fc96eb219ecc"
+    }
+  }
+}
+2025-01-29 15:34:31 - An error occurred: 
+{
+  "error": {
+    "code": "Request_BadRequest",
+    "message": "One or more added object references already exist for the following modified properties: \u0027members\u0027.",
+    "innerError": {
+      "date": "2025-01-29T10:04:31",
+      "request-id": "065e8405-f0db-4d4b-997d-071829352e42",
+      "client-request-id": "065e8405-f0db-4d4b-997d-071829352e42"
+    }
+  }
+}2025-01-31 12:22:51 - An error occurred: 
+{
+  "error": {
+    "code": "Request_BadRequest",
+    "message": "Invalid value specified for property \u0027mailNickname\u0027 of resource \u0027Group\u0027.",
+    "details": [
+      {
+        "code": "InvalidLength",
+        "message": "The mailNickname should be between 1 and 64 characters.",
+        "target": "mailNickname"
+      }
+    ],
+    "innerError": {
+      "date": "2025-01-31T06:52:51",
+      "request-id": "cc0a4d50-c4f6-4c69-9dcb-0f49d5efe304",
+      "client-request-id": "cc0a4d50-c4f6-4c69-9dcb-0f49d5efe304"
+    }
+  }
+}
+2025-01-31 12:22:54 - An error occurred: 
+{
+  "error": {
+    "code": "Request_BadRequest",
+    "message": "One or more added object references already exist for the following modified properties: \u0027members\u0027.",
+    "innerError": {
+      "date": "2025-01-31T06:52:54",
+      "request-id": "c88fe724-3125-472c-aeca-0ddae95111bd",
+      "client-request-id": "c88fe724-3125-472c-aeca-0ddae95111bd"
+    }
+  }
+}
+2025-01-31 12:22:56 - An error occurred: 
+{
+  "error": {
+    "code": "Request_BadRequest",
+    "message": "One or more added object references already exist for the following modified properties: \u0027members\u0027.",
+    "innerError": {
+      "date": "2025-01-31T06:52:56",
+      "request-id": "2202a96c-c11f-4195-9605-bb990c5156c2",
+      "client-request-id": "2202a96c-c11f-4195-9605-bb990c5156c2"
+    }
+  }
+}
+2025-01-31 12:22:58 - An error occurred: 
+{
+  "error": {
+    "code": "Request_BadRequest",
+    "message": "One or more added object references already exist for the following modified properties: \u0027members\u0027.",
+    "innerError": {
+      "date": "2025-01-31T06:52:58",
+      "request-id": "6c68c752-2c31-4e3c-8018-d85d64aff847",
+      "client-request-id": "6c68c752-2c31-4e3c-8018-d85d64aff847"
+    }
+  }
+}
+2025-01-31 12:22:59 - An error occurred: 
+{
+  "error": {
+    "code": "Request_BadRequest",
+    "message": "One or more added object references already exist for the following modified properties: \u0027members\u0027.",
+    "innerError": {
+      "date": "2025-01-31T06:52:59",
+      "request-id": "dbaec0b8-b942-4acc-9b30-c872c804f44c",
+      "client-request-id": "dbaec0b8-b942-4acc-9b30-c872c804f44c"
+    }
+  }
+}
+2025-01-31 12:23:02 - An error occurred: 
+{
+  "error": {
+    "code": "Request_BadRequest",
+    "message": "One or more added object references already exist for the following modified properties: \u0027members\u0027.",
+    "innerError": {
+      "date": "2025-01-31T06:53:02",
+      "request-id": "e9effea7-2182-4dfb-9501-fdc40898c454",
+      "client-request-id": "e9effea7-2182-4dfb-9501-fdc40898c454"
+    }
+  }
+}
+2025-01-31 12:23:04 - An error occurred: 
+{
+  "error": {
+    "code": "Request_BadRequest",
+    "message": "One or more added object references already exist for the following modified properties: \u0027members\u0027.",
+    "innerError": {
+      "date": "2025-01-31T06:53:04",
+      "request-id": "663cdc7a-df0b-4904-b91a-377c2eb68030",
+      "client-request-id": "663cdc7a-df0b-4904-b91a-377c2eb68030"
+    }
+  }
+}
+2025-01-31 12:23:06 - An error occurred: 
+{
+  "error": {
+    "code": "Request_BadRequest",
+    "message": "One or more added object references already exist for the following modified properties: \u0027members\u0027.",
+    "innerError": {
+      "date": "2025-01-31T06:53:06",
+      "request-id": "f60c0729-1664-4cb6-bc42-b761e30a5675",
+      "client-request-id": "f60c0729-1664-4cb6-bc42-b761e30a5675"
+    }
+  }
+}
+2025-01-31 12:23:07 - An error occurred: 
+{
+  "error": {
+    "code": "Request_BadRequest",
+    "message": "One or more added object references already exist for the following modified properties: \u0027members\u0027.",
+    "innerError": {
+      "date": "2025-01-31T06:53:07",
+      "request-id": "c36c4a40-e716-4a44-8870-e2c954a3a8bb",
+      "client-request-id": "c36c4a40-e716-4a44-8870-e2c954a3a8bb"
+    }
+  }
+}
+2025-01-31 12:23:09 - An error occurred: 
+{
+  "error": {
+    "code": "Request_BadRequest",
+    "message": "One or more added object references already exist for the following modified properties: \u0027members\u0027.",
+    "innerError": {
+      "date": "2025-01-31T06:53:09",
+      "request-id": "fb63079f-e0fb-41cb-8fcd-c0a9d0f2077a",
+      "client-request-id": "fb63079f-e0fb-41cb-8fcd-c0a9d0f2077a"
+    }
+  }
+}
+2025-01-31 12:23:11 - An error occurred: 
+{
+  "error": {
+    "code": "Request_BadRequest",
+    "message": "One or more added object references already exist for the following modified properties: \u0027members\u0027.",
+    "innerError": {
+      "date": "2025-01-31T06:53:11",
+      "request-id": "47e37b5d-f26c-4eb3-aa9d-5b059917adbc",
+      "client-request-id": "47e37b5d-f26c-4eb3-aa9d-5b059917adbc"
+    }
+  }
+}
+2025-01-31 12:23:12 - An error occurred: 
+{
+  "error": {
+    "code": "Request_BadRequest",
+    "message": "One or more added object references already exist for the following modified properties: \u0027members\u0027.",
+    "innerError": {
+      "date": "2025-01-31T06:53:12",
+      "request-id": "08801e81-b220-4ce1-95d5-d908dbc6a483",
+      "client-request-id": "08801e81-b220-4ce1-95d5-d908dbc6a483"
+    }
+  }
+}
+2025-01-31 12:23:14 - An error occurred: 
+{
+  "error": {
+    "code": "Request_BadRequest",
+    "message": "One or more added object references already exist for the following modified properties: \u0027members\u0027.",
+    "innerError": {
+      "date": "2025-01-31T06:53:14",
+      "request-id": "0536f0e1-29cb-48d7-ae7b-7613f30b73ad",
+      "client-request-id": "0536f0e1-29cb-48d7-ae7b-7613f30b73ad"
+    }
+  }
+}
+2025-01-31 12:23:15 - An error occurred: 
+{
+  "error": {
+    "code": "Request_BadRequest",
+    "message": "One or more added object references already exist for the following modified properties: \u0027members\u0027.",
+    "innerError": {
+      "date": "2025-01-31T06:53:15",
+      "request-id": "c61bacd2-b363-4094-8bfa-cd57278d927a",
+      "client-request-id": "c61bacd2-b363-4094-8bfa-cd57278d927a"
+    }
+  }
+}
+2025-01-31 12:23:23 - An error occurred: 
+{
+  "error": {
+    "code": "Request_BadRequest",
+    "message": "One or more added object references already exist for the following modified properties: \u0027members\u0027.",
+    "innerError": {
+      "date": "2025-01-31T06:53:23",
+      "request-id": "b97cacae-6dc9-4e08-9ea7-2715b8e0d638",
+      "client-request-id": "b97cacae-6dc9-4e08-9ea7-2715b8e0d638"
+    }
+  }
+}
+2025-01-31 12:23:24 - An error occurred: 
+{
+  "error": {
+    "code": "Request_BadRequest",
+    "message": "One or more added object references already exist for the following modified properties: \u0027members\u0027.",
+    "innerError": {
+      "date": "2025-01-31T06:53:24",
+      "request-id": "ee0f0dad-394d-416c-938b-89590d8143d9",
+      "client-request-id": "ee0f0dad-394d-416c-938b-89590d8143d9"
+    }
+  }
+}
+2025-01-31 12:23:27 - An error occurred: 
+{
+  "error": {
+    "code": "Request_BadRequest",
+    "message": "One or more added object references already exist for the following modified properties: \u0027members\u0027.",
+    "innerError": {
+      "date": "2025-01-31T06:53:27",
+      "request-id": "dae909db-2e38-4d1a-a8aa-090c19789ded",
+      "client-request-id": "dae909db-2e38-4d1a-a8aa-090c19789ded"
+    }
+  }
+}
+2025-01-31 12:23:30 - An error occurred: 
+{
+  "error": {
+    "code": "Request_BadRequest",
+    "message": "One or more added object references already exist for the following modified properties: \u0027members\u0027.",
+    "innerError": {
+      "date": "2025-01-31T06:53:30",
+      "request-id": "11ab0881-757d-47a5-b4c9-92a96f14e96b",
+      "client-request-id": "11ab0881-757d-47a5-b4c9-92a96f14e96b"
+    }
+  }
+}
+2025-01-31 12:23:31 - An error occurred: 
+{
+  "error": {
+    "code": "Request_BadRequest",
+    "message": "One or more added object references already exist for the following modified properties: \u0027members\u0027.",
+    "innerError": {
+      "date": "2025-01-31T06:53:31",
+      "request-id": "1bb2cfe4-c444-4610-ae86-7a64c3a8d7c5",
+      "client-request-id": "1bb2cfe4-c444-4610-ae86-7a64c3a8d7c5"
+    }
+  }
+}
+2025-01-31 12:23:33 - An error occurred: 
+{
+  "error": {
+    "code": "Request_BadRequest",
+    "message": "One or more added object references already exist for the following modified properties: \u0027members\u0027.",
+    "innerError": {
+      "date": "2025-01-31T06:53:33",
+      "request-id": "a39152c1-5a14-4f12-a131-47f590f61e8c",
+      "client-request-id": "a39152c1-5a14-4f12-a131-47f590f61e8c"
+    }
+  }
+}
+2025-01-31 12:23:35 - An error occurred: 
+{
+  "error": {
+    "code": "Request_BadRequest",
+    "message": "One or more added object references already exist for the following modified properties: \u0027members\u0027.",
+    "innerError": {
+      "date": "2025-01-31T06:53:35",
+      "request-id": "a6200e8a-73b5-4d24-a455-26661a728a0f",
+      "client-request-id": "a6200e8a-73b5-4d24-a455-26661a728a0f"
+    }
+  }
+}
+2025-01-31 12:23:36 - An error occurred: 
+{
+  "error": {
+    "code": "Request_BadRequest",
+    "message": "One or more added object references already exist for the following modified properties: \u0027members\u0027.",
+    "innerError": {
+      "date": "2025-01-31T06:53:36",
+      "request-id": "4e600ab7-486e-43a4-9f59-e925e20455e5",
+      "client-request-id": "4e600ab7-486e-43a4-9f59-e925e20455e5"
+    }
+  }
+}
+2025-01-31 12:23:38 - An error occurred: 
+{
+  "error": {
+    "code": "Request_BadRequest",
+    "message": "One or more added object references already exist for the following modified properties: \u0027members\u0027.",
+    "innerError": {
+      "date": "2025-01-31T06:53:38",
+      "request-id": "2b6e3d57-04b4-4f78-8311-f48264da5f71",
+      "client-request-id": "2b6e3d57-04b4-4f78-8311-f48264da5f71"
+    }
+  }
+}
+2025-01-31 12:23:41 - An error occurred: 
+{
+  "error": {
+    "code": "Request_BadRequest",
+    "message": "One or more added object references already exist for the following modified properties: \u0027members\u0027.",
+    "innerError": {
+      "date": "2025-01-31T06:53:41",
+      "request-id": "b814584c-dc2e-46fb-bae7-89473b477775",
+      "client-request-id": "b814584c-dc2e-46fb-bae7-89473b477775"
+    }
+  }
+}
+2025-01-31 12:23:46 - An error occurred: 
+{
+  "error": {
+    "code": "Request_BadRequest",
+    "message": "One or more added object references already exist for the following modified properties: \u0027members\u0027.",
+    "innerError": {
+      "date": "2025-01-31T06:53:46",
+      "request-id": "68d43d49-441e-4670-8f11-db6691d98416",
+      "client-request-id": "68d43d49-441e-4670-8f11-db6691d98416"
+    }
+  }
+}
+2025-01-31 12:23:47 - An error occurred: 
+{
+  "error": {
+    "code": "Request_BadRequest",
+    "message": "One or more added object references already exist for the following modified properties: \u0027members\u0027.",
+    "innerError": {
+      "date": "2025-01-31T06:53:47",
+      "request-id": "a83ca5ef-d0b8-4bb7-9c68-341f0326bac0",
+      "client-request-id": "a83ca5ef-d0b8-4bb7-9c68-341f0326bac0"
+    }
+  }
+}
+2025-01-31 12:23:49 - An error occurred: 
+{
+  "error": {
+    "code": "Request_BadRequest",
+    "message": "One or more added object references already exist for the following modified properties: \u0027members\u0027.",
+    "innerError": {
+      "date": "2025-01-31T06:53:49",
+      "request-id": "6a12be64-0225-4ee1-bbb0-71f218c592a8",
+      "client-request-id": "6a12be64-0225-4ee1-bbb0-71f218c592a8"
+    }
+  }
+}
+2025-01-31 12:24:59 - An error occurred: 
+{
+  "error": {
+    "code": "Request_BadRequest",
+    "message": "Invalid value specified for property \u0027mailNickname\u0027 of resource \u0027Group\u0027.",
+    "details": [
+      {
+        "code": "InvalidLength",
+        "message": "The mailNickname should be between 1 and 64 characters.",
+        "target": "mailNickname"
+      }
+    ],
+    "innerError": {
+      "date": "2025-01-31T06:54:59",
+      "request-id": "8e87b841-07a6-451d-8193-55aabe4510dd",
+      "client-request-id": "8e87b841-07a6-451d-8193-55aabe4510dd"
+    }
+  }
+}
+2025-01-31 12:25:01 - An error occurred: 
+{
+  "error": {
+    "code": "Request_BadRequest",
+    "message": "One or more added object references already exist for the following modified properties: \u0027members\u0027.",
+    "innerError": {
+      "date": "2025-01-31T06:55:01",
+      "request-id": "93d50035-eb03-4073-baaf-9f4f07668bb8",
+      "client-request-id": "93d50035-eb03-4073-baaf-9f4f07668bb8"
+    }
+  }
+}
+2025-01-31 12:25:02 - An error occurred: 
+{
+  "error": {
+    "code": "Request_BadRequest",
+    "message": "One or more added object references already exist for the following modified properties: \u0027members\u0027.",
+    "innerError": {
+      "date": "2025-01-31T06:55:02",
+      "request-id": "f25db37b-7fa4-466e-b8a4-ea4906cae096",
+      "client-request-id": "f25db37b-7fa4-466e-b8a4-ea4906cae096"
+    }
+  }
+}
+2025-01-31 12:25:04 - An error occurred: 
+{
+  "error": {
+    "code": "Request_BadRequest",
+    "message": "One or more added object references already exist for the following modified properties: \u0027members\u0027.",
+    "innerError": {
+      "date": "2025-01-31T06:55:04",
+      "request-id": "04e34140-0e9b-4dbc-ae41-d649df6f1d4c",
+      "client-request-id": "04e34140-0e9b-4dbc-ae41-d649df6f1d4c"
+    }
+  }
+}
+2025-01-31 12:25:05 - An error occurred: 
+{
+  "error": {
+    "code": "Request_BadRequest",
+    "message": "One or more added object references already exist for the following modified properties: \u0027members\u0027.",
+    "innerError": {
+      "date": "2025-01-31T06:55:05",
+      "request-id": "a47a7033-e2d8-465d-82c7-10c4f44a6bd3",
+      "client-request-id": "a47a7033-e2d8-465d-82c7-10c4f44a6bd3"
+    }
+  }
+}
+2025-01-31 12:25:07 - An error occurred: 
+{
+  "error": {
+    "code": "Request_BadRequest",
+    "message": "One or more added object references already exist for the following modified properties: \u0027members\u0027.",
+    "innerError": {
+      "date": "2025-01-31T06:55:07",
+      "request-id": "c041f798-a247-4abc-b485-582070ec207a",
+      "client-request-id": "c041f798-a247-4abc-b485-582070ec207a"
+    }
+  }
+}
+2025-01-31 12:25:10 - An error occurred: 
+{
+  "error": {
+    "code": "Request_BadRequest",
+    "message": "One or more added object references already exist for the following modified properties: \u0027members\u0027.",
+    "innerError": {
+      "date": "2025-01-31T06:55:10",
+      "request-id": "a0faecc2-7935-4a34-a79e-8e0e601a7c88",
+      "client-request-id": "a0faecc2-7935-4a34-a79e-8e0e601a7c88"
+    }
+  }
+}
+2025-01-31 12:25:12 - An error occurred: 
+{
+  "error": {
+    "code": "Request_BadRequest",
+    "message": "One or more added object references already exist for the following modified properties: \u0027members\u0027.",
+    "innerError": {
+      "date": "2025-01-31T06:55:12",
+      "request-id": "ed486762-0650-4329-8275-1b976e7e1f3a",
+      "client-request-id": "ed486762-0650-4329-8275-1b976e7e1f3a"
+    }
+  }
+}
+2025-01-31 12:25:13 - An error occurred: 
+{
+  "error": {
+    "code": "Request_BadRequest",
+    "message": "One or more added object references already exist for the following modified properties: \u0027members\u0027.",
+    "innerError": {
+      "date": "2025-01-31T06:55:13",
+      "request-id": "649909ce-5f5d-4299-a2a5-903ff0153ba8",
+      "client-request-id": "649909ce-5f5d-4299-a2a5-903ff0153ba8"
+    }
+  }
+}
+2025-01-31 12:25:15 - An error occurred: 
+{
+  "error": {
+    "code": "Request_BadRequest",
+    "message": "One or more added object references already exist for the following modified properties: \u0027members\u0027.",
+    "innerError": {
+      "date": "2025-01-31T06:55:15",
+      "request-id": "f074298a-bdae-4f46-8541-b16c58665d70",
+      "client-request-id": "f074298a-bdae-4f46-8541-b16c58665d70"
+    }
+  }
+}
+2025-01-31 12:25:17 - An error occurred: 
+{
+  "error": {
+    "code": "Request_BadRequest",
+    "message": "One or more added object references already exist for the following modified properties: \u0027members\u0027.",
+    "innerError": {
+      "date": "2025-01-31T06:55:17",
+      "request-id": "0c477f24-7f2f-402d-88ae-b63573220798",
+      "client-request-id": "0c477f24-7f2f-402d-88ae-b63573220798"
+    }
+  }
+}
+2025-01-31 12:25:18 - An error occurred: 
+{
+  "error": {
+    "code": "Request_BadRequest",
+    "message": "One or more added object references already exist for the following modified properties: \u0027members\u0027.",
+    "innerError": {
+      "date": "2025-01-31T06:55:18",
+      "request-id": "cb8d2974-ea79-40fb-bb9e-9747f7340a74",
+      "client-request-id": "cb8d2974-ea79-40fb-bb9e-9747f7340a74"
+    }
+  }
+}
+2025-01-31 12:25:20 - An error occurred: 
+{
+  "error": {
+    "code": "Request_BadRequest",
+    "message": "One or more added object references already exist for the following modified properties: \u0027members\u0027.",
+    "innerError": {
+      "date": "2025-01-31T06:55:20",
+      "request-id": "d512d13b-802d-4b88-b505-1693d30d67c8",
+      "client-request-id": "d512d13b-802d-4b88-b505-1693d30d67c8"
+    }
+  }
+}
+2025-01-31 12:25:22 - An error occurred: 
+{
+  "error": {
+    "code": "Request_BadRequest",
+    "message": "One or more added object references already exist for the following modified properties: \u0027members\u0027.",
+    "innerError": {
+      "date": "2025-01-31T06:55:22",
+      "request-id": "a1564280-b8c1-40ef-9d62-dcf0a6e97085",
+      "client-request-id": "a1564280-b8c1-40ef-9d62-dcf0a6e97085"
+    }
+  }
+}
+2025-01-31 12:25:23 - An error occurred: 
+{
+  "error": {
+    "code": "Request_BadRequest",
+    "message": "One or more added object references already exist for the following modified properties: \u0027members\u0027.",
+    "innerError": {
+      "date": "2025-01-31T06:55:23",
+      "request-id": "7da19a51-5aea-42fb-aace-9c837dbc2d0d",
+      "client-request-id": "7da19a51-5aea-42fb-aace-9c837dbc2d0d"
+    }
+  }
+}
+2025-01-31 12:25:30 - An error occurred: 
+{
+  "error": {
+    "code": "Request_BadRequest",
+    "message": "One or more added object references already exist for the following modified properties: \u0027members\u0027.",
+    "innerError": {
+      "date": "2025-01-31T06:55:30",
+      "request-id": "75ad067d-a917-4430-ae2e-deab06f39c22",
+      "client-request-id": "75ad067d-a917-4430-ae2e-deab06f39c22"
+    }
+  }
+}
+2025-01-31 12:25:32 - An error occurred: 
+{
+  "error": {
+    "code": "Request_BadRequest",
+    "message": "One or more added object references already exist for the following modified properties: \u0027members\u0027.",
+    "innerError": {
+      "date": "2025-01-31T06:55:32",
+      "request-id": "f54feceb-1f0e-4ac9-a5ba-9e6e38b5dda3",
+      "client-request-id": "f54feceb-1f0e-4ac9-a5ba-9e6e38b5dda3"
+    }
+  }
+}
+2025-01-31 12:25:35 - An error occurred: 
+{
+  "error": {
+    "code": "Request_BadRequest",
+    "message": "One or more added object references already exist for the following modified properties: \u0027members\u0027.",
+    "innerError": {
+      "date": "2025-01-31T06:55:35",
+      "request-id": "f76c0822-c664-43bd-9b2f-e8b48a517e0f",
+      "client-request-id": "f76c0822-c664-43bd-9b2f-e8b48a517e0f"
+    }
+  }
+}
+2025-01-31 12:25:37 - An error occurred: 
+{
+  "error": {
+    "code": "Request_BadRequest",
+    "message": "One or more added object references already exist for the following modified properties: \u0027members\u0027.",
+    "innerError": {
+      "date": "2025-01-31T06:55:37",
+      "request-id": "9186c092-09d9-432b-8251-6abd4839727c",
+      "client-request-id": "9186c092-09d9-432b-8251-6abd4839727c"
+    }
+  }
+}
+2025-01-31 12:25:39 - An error occurred: 
+{
+  "error": {
+    "code": "Request_BadRequest",
+    "message": "One or more added object references already exist for the following modified properties: \u0027members\u0027.",
+    "innerError": {
+      "date": "2025-01-31T06:55:38",
+      "request-id": "dbd3e19d-34cd-409e-924b-af9fe3614a3d",
+      "client-request-id": "dbd3e19d-34cd-409e-924b-af9fe3614a3d"
+    }
+  }
+}
+2025-01-31 12:25:40 - An error occurred: 
+{
+  "error": {
+    "code": "Request_BadRequest",
+    "message": "One or more added object references already exist for the following modified properties: \u0027members\u0027.",
+    "innerError": {
+      "date": "2025-01-31T06:55:40",
+      "request-id": "d19f6c86-82fe-4afb-9d4c-06d5b5c6162c",
+      "client-request-id": "d19f6c86-82fe-4afb-9d4c-06d5b5c6162c"
+    }
+  }
+}
+2025-01-31 12:25:42 - An error occurred: 
+{
+  "error": {
+    "code": "Request_BadRequest",
+    "message": "One or more added object references already exist for the following modified properties: \u0027members\u0027.",
+    "innerError": {
+      "date": "2025-01-31T06:55:42",
+      "request-id": "bb3c0e3d-fd32-43f0-8710-f95b7da471e6",
+      "client-request-id": "bb3c0e3d-fd32-43f0-8710-f95b7da471e6"
+    }
+  }
+}
+2025-01-31 12:25:44 - An error occurred: 
+{
+  "error": {
+    "code": "Request_BadRequest",
+    "message": "One or more added object references already exist for the following modified properties: \u0027members\u0027.",
+    "innerError": {
+      "date": "2025-01-31T06:55:44",
+      "request-id": "55d3f206-5ad1-417f-b2bf-5c48e43c9254",
+      "client-request-id": "55d3f206-5ad1-417f-b2bf-5c48e43c9254"
+    }
+  }
+}
+2025-01-31 12:25:45 - An error occurred: 
+{
+  "error": {
+    "code": "Request_BadRequest",
+    "message": "One or more added object references already exist for the following modified properties: \u0027members\u0027.",
+    "innerError": {
+      "date": "2025-01-31T06:55:45",
+      "request-id": "ebf48436-0100-4958-ace8-160c661b5950",
+      "client-request-id": "ebf48436-0100-4958-ace8-160c661b5950"
+    }
+  }
+}
+2025-01-31 12:25:48 - An error occurred: 
+{
+  "error": {
+    "code": "Request_BadRequest",
+    "message": "One or more added object references already exist for the following modified properties: \u0027members\u0027.",
+    "innerError": {
+      "date": "2025-01-31T06:55:48",
+      "request-id": "b40fb7cd-075e-40c9-a9e6-48596983e9a3",
+      "client-request-id": "b40fb7cd-075e-40c9-a9e6-48596983e9a3"
+    }
+  }
+}
+2025-01-31 12:25:53 - An error occurred: 
+{
+  "error": {
+    "code": "Request_BadRequest",
+    "message": "One or more added object references already exist for the following modified properties: \u0027members\u0027.",
+    "innerError": {
+      "date": "2025-01-31T06:55:53",
+      "request-id": "e7ef6c6d-eace-4634-a996-d25ff7070f34",
+      "client-request-id": "e7ef6c6d-eace-4634-a996-d25ff7070f34"
+    }
+  }
+}
+2025-01-31 12:25:55 - An error occurred: 
+{
+  "error": {
+    "code": "Request_BadRequest",
+    "message": "One or more added object references already exist for the following modified properties: \u0027members\u0027.",
+    "innerError": {
+      "date": "2025-01-31T06:55:55",
+      "request-id": "168c3e6d-95c0-45cc-9b2b-20a36f5cf934",
+      "client-request-id": "168c3e6d-95c0-45cc-9b2b-20a36f5cf934"
+    }
+  }
+}
+2025-01-31 12:25:57 - An error occurred: 
+{
+  "error": {
+    "code": "Request_BadRequest",
+    "message": "One or more added object references already exist for the following modified properties: \u0027members\u0027.",
+    "innerError": {
+      "date": "2025-01-31T06:55:57",
+      "request-id": "5f64dbee-385b-441a-8d9e-2956ba8ac059",
+      "client-request-id": "5f64dbee-385b-441a-8d9e-2956ba8ac059"
+    }
+  }
+}
+2025-01-31 12:27:08 - An error occurred: 
+{
+  "error": {
+    "code": "Request_BadRequest",
+    "message": "Invalid value specified for property \u0027mailNickname\u0027 of resource \u0027Group\u0027.",
+    "details": [
+      {
+        "code": "InvalidLength",
+        "message": "The mailNickname should be between 1 and 64 characters.",
+        "target": "mailNickname"
+      }
+    ],
+    "innerError": {
+      "date": "2025-01-31T06:57:08",
+      "request-id": "b04463a7-a470-4491-8ab1-a2171d94b5d6",
+      "client-request-id": "b04463a7-a470-4491-8ab1-a2171d94b5d6"
+    }
+  }
+}
+2025-01-31 12:27:10 - An error occurred: 
+{
+  "error": {
+    "code": "Request_BadRequest",
+    "message": "One or more added object references already exist for the following modified properties: \u0027members\u0027.",
+    "innerError": {
+      "date": "2025-01-31T06:57:10",
+      "request-id": "9132f5a6-a971-44e4-a1cc-ce8eed62564e",
+      "client-request-id": "9132f5a6-a971-44e4-a1cc-ce8eed62564e"
+    }
+  }
+}
+2025-01-31 12:27:11 - An error occurred: 
+{
+  "error": {
+    "code": "Request_BadRequest",
+    "message": "One or more added object references already exist for the following modified properties: \u0027members\u0027.",
+    "innerError": {
+      "date": "2025-01-31T06:57:11",
+      "request-id": "d17326f1-a586-4a74-9059-ef6ab69482e2",
+      "client-request-id": "d17326f1-a586-4a74-9059-ef6ab69482e2"
+    }
+  }
+}
+2025-01-31 12:27:13 - An error occurred: 
+{
+  "error": {
+    "code": "Request_BadRequest",
+    "message": "One or more added object references already exist for the following modified properties: \u0027members\u0027.",
+    "innerError": {
+      "date": "2025-01-31T06:57:13",
+      "request-id": "c0b341a9-b5d0-4e26-b3da-41dbd6ebafe1",
+      "client-request-id": "c0b341a9-b5d0-4e26-b3da-41dbd6ebafe1"
+    }
+  }
+}
+2025-01-31 12:27:14 - An error occurred: 
+{
+  "error": {
+    "code": "Request_BadRequest",
+    "message": "One or more added object references already exist for the following modified properties: \u0027members\u0027.",
+    "innerError": {
+      "date": "2025-01-31T06:57:14",
+      "request-id": "34644977-2bbb-45fe-ad3e-1afecb17c002",
+      "client-request-id": "34644977-2bbb-45fe-ad3e-1afecb17c002"
+    }
+  }
+}
+2025-01-31 12:27:16 - An error occurred: 
+{
+  "error": {
+    "code": "Request_BadRequest",
+    "message": "One or more added object references already exist for the following modified properties: \u0027members\u0027.",
+    "innerError": {
+      "date": "2025-01-31T06:57:16",
+      "request-id": "8f767e0c-58fe-43f5-b076-4fb248dcf203",
+      "client-request-id": "8f767e0c-58fe-43f5-b076-4fb248dcf203"
+    }
+  }
+}
+2025-01-31 12:27:19 - An error occurred: 
+{
+  "error": {
+    "code": "Request_BadRequest",
+    "message": "One or more added object references already exist for the following modified properties: \u0027members\u0027.",
+    "innerError": {
+      "date": "2025-01-31T06:57:19",
+      "request-id": "04eadd7d-83ef-4185-bf23-fa8d1593b150",
+      "client-request-id": "04eadd7d-83ef-4185-bf23-fa8d1593b150"
+    }
+  }
+}
+2025-01-31 12:27:21 - An error occurred: 
+{
+  "error": {
+    "code": "Request_BadRequest",
+    "message": "One or more added object references already exist for the following modified properties: \u0027members\u0027.",
+    "innerError": {
+      "date": "2025-01-31T06:57:21",
+      "request-id": "07cc31dc-f063-41b6-9e46-e5f8a8e5c674",
+      "client-request-id": "07cc31dc-f063-41b6-9e46-e5f8a8e5c674"
+    }
+  }
+}
+2025-01-31 12:27:22 - An error occurred: 
+{
+  "error": {
+    "code": "Request_BadRequest",
+    "message": "One or more added object references already exist for the following modified properties: \u0027members\u0027.",
+    "innerError": {
+      "date": "2025-01-31T06:57:22",
+      "request-id": "633ee537-8d6c-4d88-9f06-40c4c111b98a",
+      "client-request-id": "633ee537-8d6c-4d88-9f06-40c4c111b98a"
+    }
+  }
+}
+2025-01-31 12:27:24 - An error occurred: 
+{
+  "error": {
+    "code": "Request_BadRequest",
+    "message": "One or more added object references already exist for the following modified properties: \u0027members\u0027.",
+    "innerError": {
+      "date": "2025-01-31T06:57:24",
+      "request-id": "56c55f6a-ed06-4710-8090-d59296503c98",
+      "client-request-id": "56c55f6a-ed06-4710-8090-d59296503c98"
+    }
+  }
+}
+2025-01-31 12:27:25 - An error occurred: 
+{
+  "error": {
+    "code": "Request_BadRequest",
+    "message": "One or more added object references already exist for the following modified properties: \u0027members\u0027.",
+    "innerError": {
+      "date": "2025-01-31T06:57:25",
+      "request-id": "fe927aed-fcc4-456a-ad4b-42ef5dc495fe",
+      "client-request-id": "fe927aed-fcc4-456a-ad4b-42ef5dc495fe"
+    }
+  }
+}
+2025-01-31 12:27:26 - An error occurred: 
+{
+  "error": {
+    "code": "Request_BadRequest",
+    "message": "One or more added object references already exist for the following modified properties: \u0027members\u0027.",
+    "innerError": {
+      "date": "2025-01-31T06:57:27",
+      "request-id": "854b51e9-c5ca-4f65-8a3c-7fda55e7821d",
+      "client-request-id": "854b51e9-c5ca-4f65-8a3c-7fda55e7821d"
+    }
+  }
+}
+2025-01-31 12:27:28 - An error occurred: 
+{
+  "error": {
+    "code": "Request_BadRequest",
+    "message": "One or more added object references already exist for the following modified properties: \u0027members\u0027.",
+    "innerError": {
+      "date": "2025-01-31T06:57:28",
+      "request-id": "b7d20cb7-3eec-4046-95f9-3435aadeef8e",
+      "client-request-id": "b7d20cb7-3eec-4046-95f9-3435aadeef8e"
+    }
+  }
+}
+2025-01-31 12:27:30 - An error occurred: 
+{
+  "error": {
+    "code": "Request_BadRequest",
+    "message": "One or more added object references already exist for the following modified properties: \u0027members\u0027.",
+    "innerError": {
+      "date": "2025-01-31T06:57:30",
+      "request-id": "588e4f51-89a1-41f8-bdf3-cd03c0c90758",
+      "client-request-id": "588e4f51-89a1-41f8-bdf3-cd03c0c90758"
+    }
+  }
+}
+2025-01-31 12:27:31 - An error occurred: 
+{
+  "error": {
+    "code": "Request_BadRequest",
+    "message": "One or more added object references already exist for the following modified properties: \u0027members\u0027.",
+    "innerError": {
+      "date": "2025-01-31T06:57:31",
+      "request-id": "88f95d0a-ecb0-49c5-85a9-7aab0810f44b",
+      "client-request-id": "88f95d0a-ecb0-49c5-85a9-7aab0810f44b"
+    }
+  }
+}
+2025-01-31 12:27:39 - An error occurred: 
+{
+  "error": {
+    "code": "Request_BadRequest",
+    "message": "One or more added object references already exist for the following modified properties: \u0027members\u0027.",
+    "innerError": {
+      "date": "2025-01-31T06:57:39",
+      "request-id": "a723e8fd-2a3c-493c-87a4-64f560006258",
+      "client-request-id": "a723e8fd-2a3c-493c-87a4-64f560006258"
+    }
+  }
+}
+2025-01-31 12:27:40 - An error occurred: 
+{
+  "error": {
+    "code": "Request_BadRequest",
+    "message": "One or more added object references already exist for the following modified properties: \u0027members\u0027.",
+    "innerError": {
+      "date": "2025-01-31T06:57:40",
+      "request-id": "03f3f39e-a776-420a-b4e4-1489f716f323",
+      "client-request-id": "03f3f39e-a776-420a-b4e4-1489f716f323"
+    }
+  }
+}
+2025-01-31 12:27:43 - An error occurred: 
+{
+  "error": {
+    "code": "Request_BadRequest",
+    "message": "One or more added object references already exist for the following modified properties: \u0027members\u0027.",
+    "innerError": {
+      "date": "2025-01-31T06:57:43",
+      "request-id": "8062a10d-880e-484f-8deb-7c6518a3a8f5",
+      "client-request-id": "8062a10d-880e-484f-8deb-7c6518a3a8f5"
+    }
+  }
+}
+2025-01-31 12:27:44 - An error occurred: 
+{
+  "error": {
+    "code": "Request_BadRequest",
+    "message": "One or more added object references already exist for the following modified properties: \u0027members\u0027.",
+    "innerError": {
+      "date": "2025-01-31T06:57:44",
+      "request-id": "1f30b848-23c0-4187-8d5c-7f86772188ed",
+      "client-request-id": "1f30b848-23c0-4187-8d5c-7f86772188ed"
+    }
+  }
+}
+2025-01-31 12:27:45 - An error occurred: 
+{
+  "error": {
+    "code": "Request_BadRequest",
+    "message": "One or more added object references already exist for the following modified properties: \u0027members\u0027.",
+    "innerError": {
+      "date": "2025-01-31T06:57:45",
+      "request-id": "c2762505-a895-464e-8b67-c9cd6b451663",
+      "client-request-id": "c2762505-a895-464e-8b67-c9cd6b451663"
+    }
+  }
+}
+2025-01-31 12:27:47 - An error occurred: 
+{
+  "error": {
+    "code": "Request_BadRequest",
+    "message": "One or more added object references already exist for the following modified properties: \u0027members\u0027.",
+    "innerError": {
+      "date": "2025-01-31T06:57:47",
+      "request-id": "d240706a-6fdd-41c7-abf5-0e50b2d0f6d5",
+      "client-request-id": "d240706a-6fdd-41c7-abf5-0e50b2d0f6d5"
+    }
+  }
+}
+2025-01-31 12:27:48 - An error occurred: 
+{
+  "error": {
+    "code": "Request_BadRequest",
+    "message": "One or more added object references already exist for the following modified properties: \u0027members\u0027.",
+    "innerError": {
+      "date": "2025-01-31T06:57:48",
+      "request-id": "08b44227-5e9e-4000-8419-c2b777a66134",
+      "client-request-id": "08b44227-5e9e-4000-8419-c2b777a66134"
+    }
+  }
+}
+2025-01-31 12:27:50 - An error occurred: 
+{
+  "error": {
+    "code": "Request_BadRequest",
+    "message": "One or more added object references already exist for the following modified properties: \u0027members\u0027.",
+    "innerError": {
+      "date": "2025-01-31T06:57:50",
+      "request-id": "b9bd09f3-3161-4680-bebf-5d5bc1e7aa66",
+      "client-request-id": "b9bd09f3-3161-4680-bebf-5d5bc1e7aa66"
+    }
+  }
+}
+2025-01-31 12:27:51 - An error occurred: 
+{
+  "error": {
+    "code": "Request_BadRequest",
+    "message": "One or more added object references already exist for the following modified properties: \u0027members\u0027.",
+    "innerError": {
+      "date": "2025-01-31T06:57:51",
+      "request-id": "a855d18c-0539-4912-8a30-84eb73a6612c",
+      "client-request-id": "a855d18c-0539-4912-8a30-84eb73a6612c"
+    }
+  }
+}
+2025-01-31 12:27:54 - An error occurred: 
+{
+  "error": {
+    "code": "Request_BadRequest",
+    "message": "One or more added object references already exist for the following modified properties: \u0027members\u0027.",
+    "innerError": {
+      "date": "2025-01-31T06:57:54",
+      "request-id": "45ead556-2a68-4c8f-823e-fd9f9de78cc7",
+      "client-request-id": "45ead556-2a68-4c8f-823e-fd9f9de78cc7"
+    }
+  }
+}
+2025-01-31 12:27:58 - An error occurred: 
+{
+  "error": {
+    "code": "Request_BadRequest",
+    "message": "One or more added object references already exist for the following modified properties: \u0027members\u0027.",
+    "innerError": {
+      "date": "2025-01-31T06:57:58",
+      "request-id": "0ea6fc23-8c3d-4fa0-b800-9adc7a6eef1f",
+      "client-request-id": "0ea6fc23-8c3d-4fa0-b800-9adc7a6eef1f"
+    }
+  }
+}
+2025-01-31 12:27:59 - An error occurred: 
+{
+  "error": {
+    "code": "Request_BadRequest",
+    "message": "One or more added object references already exist for the following modified properties: \u0027members\u0027.",
+    "innerError": {
+      "date": "2025-01-31T06:57:59",
+      "request-id": "1703960d-cf90-46f0-af39-8947d182bf25",
+      "client-request-id": "1703960d-cf90-46f0-af39-8947d182bf25"
+    }
+  }
+}
+2025-01-31 12:28:01 - An error occurred: 
+{
+  "error": {
+    "code": "Request_BadRequest",
+    "message": "One or more added object references already exist for the following modified properties: \u0027members\u0027.",
+    "innerError": {
+      "date": "2025-01-31T06:58:01",
+      "request-id": "36c1bd9c-5bc2-42fe-9ba1-05d319f922c7",
+      "client-request-id": "36c1bd9c-5bc2-42fe-9ba1-05d319f922c7"
+    }
+  }
+}
+2025-02-04 11:44:17 - An error occurred: Cannot bind argument to parameter 'AccessToken' because it is an empty string.
+2025-02-04 11:45:13 - An error occurred: Cannot bind argument to parameter 'AccessToken' because it is an empty string.
+2025-02-04 11:45:31 - An error occurred: Cannot bind argument to parameter 'AccessToken' because it is an empty string.
+2025-02-04 11:46:00 - An error occurred: Cannot bind argument to parameter 'AccessToken' because it is an empty string.
+2025-02-04 11:47:00 - An error occurred: Cannot bind argument to parameter 'AccessToken' because it is an empty string.
+2025-02-04 11:47:59 - An error occurred: Cannot bind argument to parameter 'AccessToken' because it is an empty string.
+2025-02-04 11:48:19 - An error occurred: 
+{
+  "error": {
+    "code": "Request_BadRequest",
+    "message": "Invalid value specified for property \u0027mailNickname\u0027 of resource \u0027Group\u0027.",
+    "details": [
+      {
+        "code": "InvalidLength",
+        "message": "The mailNickname should be between 1 and 64 characters.",
+        "target": "mailNickname"
+      }
+    ],
+    "innerError": {
+      "date": "2025-02-04T06:18:19",
+      "request-id": "aea6cc69-d315-4dbf-960d-d63975d0323c",
+      "client-request-id": "aea6cc69-d315-4dbf-960d-d63975d0323c"
+    }
+  }
+}
+2025-02-04 13:10:10 - An error occurred: Cannot bind argument to parameter 'AccessToken' because it is an empty string.
+2025-02-04 13:11:10 - An error occurred: Cannot bind argument to parameter 'AccessToken' because it is an empty string.
+2025-02-04 13:12:10 - An error occurred: Cannot bind argument to parameter 'AccessToken' because it is an empty string.
+2025-02-04 13:12:30 - An error occurred: Cannot bind argument to parameter 'AccessToken' because it is an empty string.
+2025-02-04 13:12:34 - An error occurred: Cannot bind argument to parameter 'AccessToken' because it is an empty string.
+2025-02-04 13:13:21 - An error occurred: Cannot bind argument to parameter 'AccessToken' because it is an empty string.
+2025-02-04 13:13:54 - An error occurred: Cannot bind argument to parameter 'AccessToken' because it is an empty string.
+2025-02-04 13:14:32 - An error occurred: Cannot bind argument to parameter 'AccessToken' because it is an empty string.
+2025-02-06 15:56:04 - An error occurred: 
+{
+  "error": {
+    "code": "Request_BadRequest",
+    "message": "Invalid value specified for property \u0027mailNickname\u0027 of resource \u0027Group\u0027.",
+    "details": [
+      {
+        "code": "InvalidLength",
+        "message": "The mailNickname should be between 1 and 64 characters.",
+        "target": "mailNickname"
+      }
+    ],
+    "innerError": {
+      "date": "2025-02-06T10:26:04",
+      "request-id": "a0e9ce39-0123-41ee-a27e-3ae2ff049629",
+      "client-request-id": "a0e9ce39-0123-41ee-a27e-3ae2ff049629"
+    }
+  }
+}
